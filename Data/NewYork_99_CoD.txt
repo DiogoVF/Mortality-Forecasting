@@ -1,0 +1,1791 @@
+"Notes"	"Month"	"Month Code"	"Cause of death"	"Cause of death Code"	Deaths
+	"Jan., 1999"	"1999/01"	"Septicaemia due to Staphylococcus aureus"	"A41.0"	10
+	"Jan., 1999"	"1999/01"	"Septicaemia, unspecified"	"A41.9"	217
+	"Jan., 1999"	"1999/01"	"Acute hepatitis C"	"B17.1"	23
+	"Jan., 1999"	"1999/01"	"HIV disease resulting in other bacterial infections"	"B20.1"	26
+	"Jan., 1999"	"1999/01"	"HIV disease resulting in multiple infections"	"B20.7"	15
+	"Jan., 1999"	"1999/01"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	26
+	"Jan., 1999"	"1999/01"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	11
+	"Jan., 1999"	"1999/01"	"HIV disease resulting in other specified conditions"	"B23.8"	84
+	"Jan., 1999"	"1999/01"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	34
+	"Jan., 1999"	"1999/01"	"Pharynx, unspecified - Malignant neoplasms"	"C14.0"	10
+	"Jan., 1999"	"1999/01"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	76
+	"Jan., 1999"	"1999/01"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	100
+	"Jan., 1999"	"1999/01"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	329
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of rectum"	"C20"	36
+	"Jan., 1999"	"1999/01"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	26
+	"Jan., 1999"	"1999/01"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	16
+	"Jan., 1999"	"1999/01"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	38
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of gallbladder"	"C23"	15
+	"Jan., 1999"	"1999/01"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	211
+	"Jan., 1999"	"1999/01"	"Intestinal tract, part unspecified - Malignant neoplasms"	"C26.0"	10
+	"Jan., 1999"	"1999/01"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	21
+	"Jan., 1999"	"1999/01"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	841
+	"Jan., 1999"	"1999/01"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	26
+	"Jan., 1999"	"1999/01"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	11
+	"Jan., 1999"	"1999/01"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	11
+	"Jan., 1999"	"1999/01"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	268
+	"Jan., 1999"	"1999/01"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	27
+	"Jan., 1999"	"1999/01"	"Endometrium - Malignant neoplasms"	"C54.1"	29
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of uterus, part unspecified"	"C55"	23
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of ovary"	"C56"	99
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of prostate"	"C61"	183
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	58
+	"Jan., 1999"	"1999/01"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	92
+	"Jan., 1999"	"1999/01"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	51
+	"Jan., 1999"	"1999/01"	"Head, face and neck - Malignant neoplasms"	"C76.0"	15
+	"Jan., 1999"	"1999/01"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	28
+	"Jan., 1999"	"1999/01"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	11
+	"Jan., 1999"	"1999/01"	"Malignant neoplasm without specification of site"	"C80"	162
+	"Jan., 1999"	"1999/01"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	13
+	"Jan., 1999"	"1999/01"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	108
+	"Jan., 1999"	"1999/01"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	56
+	"Jan., 1999"	"1999/01"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	28
+	"Jan., 1999"	"1999/01"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	39
+	"Jan., 1999"	"1999/01"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	20
+	"Jan., 1999"	"1999/01"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	20
+	"Jan., 1999"	"1999/01"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	26
+	"Jan., 1999"	"1999/01"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	23
+	"Jan., 1999"	"1999/01"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	20
+	"Jan., 1999"	"1999/01"	"Coagulation defect, unspecified"	"D68.9"	10
+	"Jan., 1999"	"1999/01"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	43
+	"Jan., 1999"	"1999/01"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	39
+	"Jan., 1999"	"1999/01"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	13
+	"Jan., 1999"	"1999/01"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	32
+	"Jan., 1999"	"1999/01"	"Unspecified diabetes mellitus, without complications"	"E14.9"	255
+	"Jan., 1999"	"1999/01"	"Other obesity"	"E66.8"	10
+	"Jan., 1999"	"1999/01"	"Pure hypercholesterolaemia"	"E78.0"	11
+	"Jan., 1999"	"1999/01"	"Volume depletion"	"E86"	27
+	"Jan., 1999"	"1999/01"	"Unspecified dementia"	"F03"	130
+	"Jan., 1999"	"1999/01"	"Unspecified mental disorder due to brain damage and dysfunction and to physical disease"	"F06.9"	11
+	"Jan., 1999"	"1999/01"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	45
+	"Jan., 1999"	"1999/01"	"Motor neuron disease"	"G12.2"	28
+	"Jan., 1999"	"1999/01"	"Parkinson disease"	"G20"	51
+	"Jan., 1999"	"1999/01"	"Alzheimer disease, unspecified"	"G30.9"	171
+	"Jan., 1999"	"1999/01"	"Multiple sclerosis"	"G35"	21
+	"Jan., 1999"	"1999/01"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	28
+	"Jan., 1999"	"1999/01"	"Essential (primary) hypertension"	"I10"	84
+	"Jan., 1999"	"1999/01"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	63
+	"Jan., 1999"	"1999/01"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	120
+	"Jan., 1999"	"1999/01"	"Hypertensive renal disease with renal failure"	"I12.0"	49
+	"Jan., 1999"	"1999/01"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	12
+	"Jan., 1999"	"1999/01"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	16
+	"Jan., 1999"	"1999/01"	"Acute myocardial infarction, unspecified"	"I21.9"	1500
+	"Jan., 1999"	"1999/01"	"Other forms of acute ischaemic heart disease"	"I24.8"	19
+	"Jan., 1999"	"1999/01"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	574
+	"Jan., 1999"	"1999/01"	"Atherosclerotic heart disease"	"I25.1"	3087
+	"Jan., 1999"	"1999/01"	"Ischaemic cardiomyopathy"	"I25.5"	54
+	"Jan., 1999"	"1999/01"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	66
+	"Jan., 1999"	"1999/01"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	44
+	"Jan., 1999"	"1999/01"	"Primary pulmonary hypertension"	"I27.0"	18
+	"Jan., 1999"	"1999/01"	"Mitral (valve) insufficiency"	"I34.0"	15
+	"Jan., 1999"	"1999/01"	"Aortic (valve) stenosis"	"I35.0"	64
+	"Jan., 1999"	"1999/01"	"Aortic valve disorder, unspecified"	"I35.9"	10
+	"Jan., 1999"	"1999/01"	"Endocarditis, valve unspecified"	"I38"	30
+	"Jan., 1999"	"1999/01"	"Dilated cardiomyopathy"	"I42.0"	26
+	"Jan., 1999"	"1999/01"	"Cardiomyopathy, unspecified"	"I42.9"	94
+	"Jan., 1999"	"1999/01"	"Sudden cardiac death, so described"	"I46.1"	11
+	"Jan., 1999"	"1999/01"	"Cardiac arrest, unspecified"	"I46.9"	122
+	"Jan., 1999"	"1999/01"	"Atrial fibrillation and flutter"	"I48"	53
+	"Jan., 1999"	"1999/01"	"Ventricular fibrillation and flutter"	"I49.0"	12
+	"Jan., 1999"	"1999/01"	"Cardiac arrhythmia, unspecified"	"I49.9"	19
+	"Jan., 1999"	"1999/01"	"Congestive heart failure"	"I50.0"	326
+	"Jan., 1999"	"1999/01"	"Heart failure, unspecified"	"I50.9"	17
+	"Jan., 1999"	"1999/01"	"Cardiovascular disease, unspecified"	"I51.6"	12
+	"Jan., 1999"	"1999/01"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	26
+	"Jan., 1999"	"1999/01"	"Intracerebral haemorrhage, unspecified"	"I61.9"	103
+	"Jan., 1999"	"1999/01"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	33
+	"Jan., 1999"	"1999/01"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	20
+	"Jan., 1999"	"1999/01"	"Cerebral infarction, unspecified"	"I63.9"	57
+	"Jan., 1999"	"1999/01"	"Stroke, not specified as haemorrhage or infarction"	"I64"	469
+	"Jan., 1999"	"1999/01"	"Cerebral atherosclerosis"	"I67.2"	12
+	"Jan., 1999"	"1999/01"	"Cerebrovascular disease, unspecified"	"I67.9"	18
+	"Jan., 1999"	"1999/01"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	43
+	"Jan., 1999"	"1999/01"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	55
+	"Jan., 1999"	"1999/01"	"Generalized and unspecified atherosclerosis"	"I70.9"	53
+	"Jan., 1999"	"1999/01"	"Dissection of aorta [any part]"	"I71.0"	25
+	"Jan., 1999"	"1999/01"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	32
+	"Jan., 1999"	"1999/01"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	10
+	"Jan., 1999"	"1999/01"	"Peripheral vascular disease, unspecified"	"I73.9"	35
+	"Jan., 1999"	"1999/01"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	17
+	"Jan., 1999"	"1999/01"	"Influenza with pneumonia, virus not identified"	"J11.0"	10
+	"Jan., 1999"	"1999/01"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	18
+	"Jan., 1999"	"1999/01"	"Pneumonia due to staphylococcus"	"J15.2"	11
+	"Jan., 1999"	"1999/01"	"Bacterial pneumonia, unspecified"	"J15.9"	42
+	"Jan., 1999"	"1999/01"	"Bronchopneumonia, unspecified"	"J18.0"	45
+	"Jan., 1999"	"1999/01"	"Lobar pneumonia, unspecified"	"J18.1"	91
+	"Jan., 1999"	"1999/01"	"Pneumonia, unspecified"	"J18.9"	565
+	"Jan., 1999"	"1999/01"	"Emphysema, unspecified"	"J43.9"	109
+	"Jan., 1999"	"1999/01"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	34
+	"Jan., 1999"	"1999/01"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	662
+	"Jan., 1999"	"1999/01"	"Asthma, unspecified"	"J45.9"	43
+	"Jan., 1999"	"1999/01"	"Pneumonitis due to food and vomit"	"J69.0"	77
+	"Jan., 1999"	"1999/01"	"Adult respiratory distress syndrome"	"J80"	13
+	"Jan., 1999"	"1999/01"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	35
+	"Jan., 1999"	"1999/01"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10
+	"Jan., 1999"	"1999/01"	"Pleural effusion, not elsewhere classified"	"J90"	16
+	"Jan., 1999"	"1999/01"	"Respiratory failure, unspecified"	"J96.9"	16
+	"Jan., 1999"	"1999/01"	"Other disorders of lung"	"J98.4"	18
+	"Jan., 1999"	"1999/01"	"Noninfective gastroenteritis and colitis, unspecified"	"K52.9"	10
+	"Jan., 1999"	"1999/01"	"Acute vascular disorders of intestine"	"K55.0"	26
+	"Jan., 1999"	"1999/01"	"Vascular disorder of intestine, unspecified"	"K55.9"	27
+	"Jan., 1999"	"1999/01"	"Other and unspecified intestinal obstruction"	"K56.6"	16
+	"Jan., 1999"	"1999/01"	"Alcoholic cirrhosis of liver"	"K70.3"	66
+	"Jan., 1999"	"1999/01"	"Hepatic failure, unspecified"	"K72.9"	21
+	"Jan., 1999"	"1999/01"	"Other and unspecified cirrhosis of liver"	"K74.6"	81
+	"Jan., 1999"	"1999/01"	"Acute pancreatitis"	"K85"	12
+	"Jan., 1999"	"1999/01"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	43
+	"Jan., 1999"	"1999/01"	"Decubitus ulcer"	"L89"	12
+	"Jan., 1999"	"1999/01"	"Acute renal failure, unspecified"	"N17.9"	33
+	"Jan., 1999"	"1999/01"	"End-stage renal disease"	"N18.0"	66
+	"Jan., 1999"	"1999/01"	"Chronic renal failure, unspecified"	"N18.9"	47
+	"Jan., 1999"	"1999/01"	"Unspecified renal failure"	"N19"	102
+	"Jan., 1999"	"1999/01"	"Urinary tract infection, site not specified"	"N39.0"	89
+	"Jan., 1999"	"1999/01"	"Extreme immaturity"	"P07.2"	12
+	"Jan., 1999"	"1999/01"	"Neonatal cardiac dysrhythmia"	"P29.1"	14
+	"Jan., 1999"	"1999/01"	"Other ill-defined and unspecified causes of mortality"	"R99"	140
+	"Jan., 1999"	"1999/01"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	19
+	"Jan., 1999"	"1999/01"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	13
+	"Jan., 1999"	"1999/01"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	11
+	"Jan., 1999"	"1999/01"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	22
+	"Jan., 1999"	"1999/01"	"Fall on and from stairs and steps"	"W10"	20
+	"Jan., 1999"	"1999/01"	"Unspecified fall"	"W19"	54
+	"Jan., 1999"	"1999/01"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	13
+	"Jan., 1999"	"1999/01"	"Exposure to uncontrolled fire in building or structure"	"X00"	36
+	"Jan., 1999"	"1999/01"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	57
+	"Jan., 1999"	"1999/01"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11
+	"Jan., 1999"	"1999/01"	"Exposure to unspecified factor"	"X59"	39
+	"Jan., 1999"	"1999/01"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	25
+	"Jan., 1999"	"1999/01"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10
+	"Jan., 1999"	"1999/01"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	19
+	"Jan., 1999"	"1999/01"	"Intentional self-harm by jumping from a high place"	"X80"	11
+	"Jan., 1999"	"1999/01"	"Assault by other and unspecified firearm discharge"	"X95"	33
+	"Jan., 1999"	"1999/01"	"Assault by sharp object"	"X99"	14
+	"Feb., 1999"	"1999/02"	"Septicaemia, unspecified"	"A41.9"	194
+	"Feb., 1999"	"1999/02"	"Acute hepatitis C"	"B17.1"	22
+	"Feb., 1999"	"1999/02"	"HIV disease resulting in other bacterial infections"	"B20.1"	22
+	"Feb., 1999"	"1999/02"	"HIV disease resulting in multiple infections"	"B20.7"	15
+	"Feb., 1999"	"1999/02"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	27
+	"Feb., 1999"	"1999/02"	"HIV disease resulting in other specified conditions"	"B23.8"	63
+	"Feb., 1999"	"1999/02"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	32
+	"Feb., 1999"	"1999/02"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	10
+	"Feb., 1999"	"1999/02"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	69
+	"Feb., 1999"	"1999/02"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	80
+	"Feb., 1999"	"1999/02"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	260
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of rectosigmoid junction"	"C19"	11
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of rectum"	"C20"	41
+	"Feb., 1999"	"1999/02"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	24
+	"Feb., 1999"	"1999/02"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	26
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of gallbladder"	"C23"	15
+	"Feb., 1999"	"1999/02"	"Extrahepatic bile duct - Malignant neoplasms"	"C24.0"	10
+	"Feb., 1999"	"1999/02"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	179
+	"Feb., 1999"	"1999/02"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	18
+	"Feb., 1999"	"1999/02"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	758
+	"Feb., 1999"	"1999/02"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	38
+	"Feb., 1999"	"1999/02"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	15
+	"Feb., 1999"	"1999/02"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	230
+	"Feb., 1999"	"1999/02"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	27
+	"Feb., 1999"	"1999/02"	"Endometrium - Malignant neoplasms"	"C54.1"	12
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of uterus, part unspecified"	"C55"	22
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of ovary"	"C56"	82
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of prostate"	"C61"	156
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	51
+	"Feb., 1999"	"1999/02"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	67
+	"Feb., 1999"	"1999/02"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	58
+	"Feb., 1999"	"1999/02"	"Head, face and neck - Malignant neoplasms"	"C76.0"	16
+	"Feb., 1999"	"1999/02"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	25
+	"Feb., 1999"	"1999/02"	"Malignant neoplasm without specification of site"	"C80"	149
+	"Feb., 1999"	"1999/02"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	100
+	"Feb., 1999"	"1999/02"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	45
+	"Feb., 1999"	"1999/02"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	37
+	"Feb., 1999"	"1999/02"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	30
+	"Feb., 1999"	"1999/02"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	17
+	"Feb., 1999"	"1999/02"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	12
+	"Feb., 1999"	"1999/02"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	22
+	"Feb., 1999"	"1999/02"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	19
+	"Feb., 1999"	"1999/02"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	16
+	"Feb., 1999"	"1999/02"	"Anaemia, unspecified"	"D64.9"	10
+	"Feb., 1999"	"1999/02"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	25
+	"Feb., 1999"	"1999/02"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	35
+	"Feb., 1999"	"1999/02"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	16
+	"Feb., 1999"	"1999/02"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	26
+	"Feb., 1999"	"1999/02"	"Unspecified diabetes mellitus, without complications"	"E14.9"	237
+	"Feb., 1999"	"1999/02"	"Unspecified protein-energy malnutrition"	"E46"	14
+	"Feb., 1999"	"1999/02"	"Volume depletion"	"E86"	25
+	"Feb., 1999"	"1999/02"	"Unspecified dementia"	"F03"	113
+	"Feb., 1999"	"1999/02"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	15
+	"Feb., 1999"	"1999/02"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	33
+	"Feb., 1999"	"1999/02"	"Motor neuron disease"	"G12.2"	23
+	"Feb., 1999"	"1999/02"	"Parkinson disease"	"G20"	62
+	"Feb., 1999"	"1999/02"	"Alzheimer disease, unspecified"	"G30.9"	114
+	"Feb., 1999"	"1999/02"	"Multiple sclerosis"	"G35"	20
+	"Feb., 1999"	"1999/02"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	22
+	"Feb., 1999"	"1999/02"	"Essential (primary) hypertension"	"I10"	66
+	"Feb., 1999"	"1999/02"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43
+	"Feb., 1999"	"1999/02"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	104
+	"Feb., 1999"	"1999/02"	"Hypertensive renal disease with renal failure"	"I12.0"	28
+	"Feb., 1999"	"1999/02"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12
+	"Feb., 1999"	"1999/02"	"Acute myocardial infarction, unspecified"	"I21.9"	1210
+	"Feb., 1999"	"1999/02"	"Other forms of acute ischaemic heart disease"	"I24.8"	19
+	"Feb., 1999"	"1999/02"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	459
+	"Feb., 1999"	"1999/02"	"Atherosclerotic heart disease"	"I25.1"	2549
+	"Feb., 1999"	"1999/02"	"Ischaemic cardiomyopathy"	"I25.5"	69
+	"Feb., 1999"	"1999/02"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	70
+	"Feb., 1999"	"1999/02"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	43
+	"Feb., 1999"	"1999/02"	"Primary pulmonary hypertension"	"I27.0"	17
+	"Feb., 1999"	"1999/02"	"Pulmonary heart disease, unspecified"	"I27.9"	11
+	"Feb., 1999"	"1999/02"	"Acute and subacute infective endocarditis"	"I33.0"	12
+	"Feb., 1999"	"1999/02"	"Mitral (valve) insufficiency"	"I34.0"	10
+	"Feb., 1999"	"1999/02"	"Aortic (valve) stenosis"	"I35.0"	53
+	"Feb., 1999"	"1999/02"	"Aortic valve disorder, unspecified"	"I35.9"	11
+	"Feb., 1999"	"1999/02"	"Endocarditis, valve unspecified"	"I38"	27
+	"Feb., 1999"	"1999/02"	"Dilated cardiomyopathy"	"I42.0"	30
+	"Feb., 1999"	"1999/02"	"Cardiomyopathy, unspecified"	"I42.9"	80
+	"Feb., 1999"	"1999/02"	"Cardiac arrest, unspecified"	"I46.9"	143
+	"Feb., 1999"	"1999/02"	"Atrial fibrillation and flutter"	"I48"	38
+	"Feb., 1999"	"1999/02"	"Ventricular fibrillation and flutter"	"I49.0"	11
+	"Feb., 1999"	"1999/02"	"Cardiac arrhythmia, unspecified"	"I49.9"	16
+	"Feb., 1999"	"1999/02"	"Congestive heart failure"	"I50.0"	237
+	"Feb., 1999"	"1999/02"	"Heart failure, unspecified"	"I50.9"	15
+	"Feb., 1999"	"1999/02"	"Cardiovascular disease, unspecified"	"I51.6"	11
+	"Feb., 1999"	"1999/02"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34
+	"Feb., 1999"	"1999/02"	"Intracerebral haemorrhage, unspecified"	"I61.9"	71
+	"Feb., 1999"	"1999/02"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	37
+	"Feb., 1999"	"1999/02"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	18
+	"Feb., 1999"	"1999/02"	"Cerebral infarction, unspecified"	"I63.9"	48
+	"Feb., 1999"	"1999/02"	"Stroke, not specified as haemorrhage or infarction"	"I64"	389
+	"Feb., 1999"	"1999/02"	"Cerebrovascular disease, unspecified"	"I67.9"	15
+	"Feb., 1999"	"1999/02"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	37
+	"Feb., 1999"	"1999/02"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	45
+	"Feb., 1999"	"1999/02"	"Generalized and unspecified atherosclerosis"	"I70.9"	52
+	"Feb., 1999"	"1999/02"	"Dissection of aorta [any part]"	"I71.0"	12
+	"Feb., 1999"	"1999/02"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	20
+	"Feb., 1999"	"1999/02"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	11
+	"Feb., 1999"	"1999/02"	"Aortic aneurysm of unspecified site, ruptured"	"I71.8"	15
+	"Feb., 1999"	"1999/02"	"Peripheral vascular disease, unspecified"	"I73.9"	34
+	"Feb., 1999"	"1999/02"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	15
+	"Feb., 1999"	"1999/02"	"Influenza with pneumonia, virus not identified"	"J11.0"	16
+	"Feb., 1999"	"1999/02"	"Influenza with other respiratory manifestations, virus not identified"	"J11.1"	12
+	"Feb., 1999"	"1999/02"	"Bacterial pneumonia, unspecified"	"J15.9"	29
+	"Feb., 1999"	"1999/02"	"Bronchopneumonia, unspecified"	"J18.0"	53
+	"Feb., 1999"	"1999/02"	"Lobar pneumonia, unspecified"	"J18.1"	77
+	"Feb., 1999"	"1999/02"	"Pneumonia, unspecified"	"J18.9"	451
+	"Feb., 1999"	"1999/02"	"Emphysema, unspecified"	"J43.9"	82
+	"Feb., 1999"	"1999/02"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	20
+	"Feb., 1999"	"1999/02"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	645
+	"Feb., 1999"	"1999/02"	"Asthma, unspecified"	"J45.9"	41
+	"Feb., 1999"	"1999/02"	"Pneumonitis due to food and vomit"	"J69.0"	63
+	"Feb., 1999"	"1999/02"	"Adult respiratory distress syndrome"	"J80"	17
+	"Feb., 1999"	"1999/02"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	42
+	"Feb., 1999"	"1999/02"	"Respiratory failure, unspecified"	"J96.9"	14
+	"Feb., 1999"	"1999/02"	"Other disorders of lung"	"J98.4"	16
+	"Feb., 1999"	"1999/02"	"Gastric ulcer, chronic or unspecified with haemorrhage"	"K25.4"	10
+	"Feb., 1999"	"1999/02"	"Acute vascular disorders of intestine"	"K55.0"	24
+	"Feb., 1999"	"1999/02"	"Vascular disorder of intestine, unspecified"	"K55.9"	22
+	"Feb., 1999"	"1999/02"	"Other and unspecified intestinal obstruction"	"K56.6"	16
+	"Feb., 1999"	"1999/02"	"Alcoholic cirrhosis of liver"	"K70.3"	36
+	"Feb., 1999"	"1999/02"	"Hepatic failure, unspecified"	"K72.9"	21
+	"Feb., 1999"	"1999/02"	"Other and unspecified cirrhosis of liver"	"K74.6"	59
+	"Feb., 1999"	"1999/02"	"Acute pancreatitis"	"K85"	13
+	"Feb., 1999"	"1999/02"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	40
+	"Feb., 1999"	"1999/02"	"Rheumatoid arthritis, unspecified"	"M06.9"	14
+	"Feb., 1999"	"1999/02"	"Acute renal failure, unspecified"	"N17.9"	26
+	"Feb., 1999"	"1999/02"	"End-stage renal disease"	"N18.0"	60
+	"Feb., 1999"	"1999/02"	"Chronic renal failure, unspecified"	"N18.9"	39
+	"Feb., 1999"	"1999/02"	"Unspecified renal failure"	"N19"	82
+	"Feb., 1999"	"1999/02"	"Urinary tract infection, site not specified"	"N39.0"	73
+	"Feb., 1999"	"1999/02"	"Other ill-defined and unspecified causes of mortality"	"R99"	63
+	"Feb., 1999"	"1999/02"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	13
+	"Feb., 1999"	"1999/02"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	13
+	"Feb., 1999"	"1999/02"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	13
+	"Feb., 1999"	"1999/02"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10
+	"Feb., 1999"	"1999/02"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	20
+	"Feb., 1999"	"1999/02"	"Unspecified fall"	"W19"	38
+	"Feb., 1999"	"1999/02"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	13
+	"Feb., 1999"	"1999/02"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	54
+	"Feb., 1999"	"1999/02"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	15
+	"Feb., 1999"	"1999/02"	"Exposure to unspecified factor"	"X59"	23
+	"Feb., 1999"	"1999/02"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	27
+	"Feb., 1999"	"1999/02"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	32
+	"Feb., 1999"	"1999/02"	"Intentional self-harm by jumping from a high place"	"X80"	10
+	"Feb., 1999"	"1999/02"	"Assault by other and unspecified firearm discharge"	"X95"	48
+	"Feb., 1999"	"1999/02"	"Assault by sharp object"	"X99"	14
+	"Mar., 1999"	"1999/03"	"Septicaemia, unspecified"	"A41.9"	183
+	"Mar., 1999"	"1999/03"	"Acute hepatitis C"	"B17.1"	24
+	"Mar., 1999"	"1999/03"	"HIV disease resulting in other bacterial infections"	"B20.1"	26
+	"Mar., 1999"	"1999/03"	"HIV disease resulting in Pneumocystis carinii pneumonia"	"B20.6"	13
+	"Mar., 1999"	"1999/03"	"HIV disease resulting in multiple infections"	"B20.7"	18
+	"Mar., 1999"	"1999/03"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	27
+	"Mar., 1999"	"1999/03"	"HIV disease with other types of non-Hodgkin lymphoma"	"B21.2"	10
+	"Mar., 1999"	"1999/03"	"HIV disease resulting in other specified conditions"	"B23.8"	67
+	"Mar., 1999"	"1999/03"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	28
+	"Mar., 1999"	"1999/03"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	54
+	"Mar., 1999"	"1999/03"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	105
+	"Mar., 1999"	"1999/03"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	315
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of rectum"	"C20"	47
+	"Mar., 1999"	"1999/03"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	42
+	"Mar., 1999"	"1999/03"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	16
+	"Mar., 1999"	"1999/03"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	26
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of gallbladder"	"C23"	20
+	"Mar., 1999"	"1999/03"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	182
+	"Mar., 1999"	"1999/03"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	26
+	"Mar., 1999"	"1999/03"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	805
+	"Mar., 1999"	"1999/03"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	27
+	"Mar., 1999"	"1999/03"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	15
+	"Mar., 1999"	"1999/03"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	250
+	"Mar., 1999"	"1999/03"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	28
+	"Mar., 1999"	"1999/03"	"Endometrium - Malignant neoplasms"	"C54.1"	23
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of uterus, part unspecified"	"C55"	22
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of ovary"	"C56"	91
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of prostate"	"C61"	183
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	59
+	"Mar., 1999"	"1999/03"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	90
+	"Mar., 1999"	"1999/03"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	60
+	"Mar., 1999"	"1999/03"	"Head, face and neck - Malignant neoplasms"	"C76.0"	13
+	"Mar., 1999"	"1999/03"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	18
+	"Mar., 1999"	"1999/03"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	11
+	"Mar., 1999"	"1999/03"	"Malignant neoplasm without specification of site"	"C80"	117
+	"Mar., 1999"	"1999/03"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	10
+	"Mar., 1999"	"1999/03"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	108
+	"Mar., 1999"	"1999/03"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	65
+	"Mar., 1999"	"1999/03"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	29
+	"Mar., 1999"	"1999/03"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	36
+	"Mar., 1999"	"1999/03"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	15
+	"Mar., 1999"	"1999/03"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	11
+	"Mar., 1999"	"1999/03"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	15
+	"Mar., 1999"	"1999/03"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	30
+	"Mar., 1999"	"1999/03"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	22
+	"Mar., 1999"	"1999/03"	"Anaemia, unspecified"	"D64.9"	18
+	"Mar., 1999"	"1999/03"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	32
+	"Mar., 1999"	"1999/03"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	26
+	"Mar., 1999"	"1999/03"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	40
+	"Mar., 1999"	"1999/03"	"Unspecified diabetes mellitus, without complications"	"E14.9"	201
+	"Mar., 1999"	"1999/03"	"Hyperlipidaemia, unspecified"	"E78.5"	13
+	"Mar., 1999"	"1999/03"	"Volume depletion"	"E86"	18
+	"Mar., 1999"	"1999/03"	"Unspecified dementia"	"F03"	115
+	"Mar., 1999"	"1999/03"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	30
+	"Mar., 1999"	"1999/03"	"Motor neuron disease"	"G12.2"	34
+	"Mar., 1999"	"1999/03"	"Parkinson disease"	"G20"	58
+	"Mar., 1999"	"1999/03"	"Alzheimer disease, unspecified"	"G30.9"	112
+	"Mar., 1999"	"1999/03"	"Multiple sclerosis"	"G35"	15
+	"Mar., 1999"	"1999/03"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	27
+	"Mar., 1999"	"1999/03"	"Rheumatic heart disease, unspecified"	"I09.9"	12
+	"Mar., 1999"	"1999/03"	"Essential (primary) hypertension"	"I10"	68
+	"Mar., 1999"	"1999/03"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	56
+	"Mar., 1999"	"1999/03"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	106
+	"Mar., 1999"	"1999/03"	"Hypertensive renal disease with renal failure"	"I12.0"	40
+	"Mar., 1999"	"1999/03"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	12
+	"Mar., 1999"	"1999/03"	"Acute myocardial infarction, unspecified"	"I21.9"	1238
+	"Mar., 1999"	"1999/03"	"Other forms of acute ischaemic heart disease"	"I24.8"	25
+	"Mar., 1999"	"1999/03"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	382
+	"Mar., 1999"	"1999/03"	"Atherosclerotic heart disease"	"I25.1"	2466
+	"Mar., 1999"	"1999/03"	"Ischaemic cardiomyopathy"	"I25.5"	66
+	"Mar., 1999"	"1999/03"	"Other forms of chronic ischaemic heart disease"	"I25.8"	11
+	"Mar., 1999"	"1999/03"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	67
+	"Mar., 1999"	"1999/03"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	39
+	"Mar., 1999"	"1999/03"	"Primary pulmonary hypertension"	"I27.0"	17
+	"Mar., 1999"	"1999/03"	"Aortic (valve) stenosis"	"I35.0"	61
+	"Mar., 1999"	"1999/03"	"Endocarditis, valve unspecified"	"I38"	32
+	"Mar., 1999"	"1999/03"	"Dilated cardiomyopathy"	"I42.0"	33
+	"Mar., 1999"	"1999/03"	"Cardiomyopathy, unspecified"	"I42.9"	93
+	"Mar., 1999"	"1999/03"	"Sudden cardiac death, so described"	"I46.1"	13
+	"Mar., 1999"	"1999/03"	"Cardiac arrest, unspecified"	"I46.9"	110
+	"Mar., 1999"	"1999/03"	"Atrial fibrillation and flutter"	"I48"	53
+	"Mar., 1999"	"1999/03"	"Cardiac arrhythmia, unspecified"	"I49.9"	26
+	"Mar., 1999"	"1999/03"	"Congestive heart failure"	"I50.0"	272
+	"Mar., 1999"	"1999/03"	"Heart failure, unspecified"	"I50.9"	16
+	"Mar., 1999"	"1999/03"	"Cardiovascular disease, unspecified"	"I51.6"	13
+	"Mar., 1999"	"1999/03"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	37
+	"Mar., 1999"	"1999/03"	"Intracerebral haemorrhage, unspecified"	"I61.9"	97
+	"Mar., 1999"	"1999/03"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	39
+	"Mar., 1999"	"1999/03"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	14
+	"Mar., 1999"	"1999/03"	"Cerebral infarction, unspecified"	"I63.9"	54
+	"Mar., 1999"	"1999/03"	"Stroke, not specified as haemorrhage or infarction"	"I64"	420
+	"Mar., 1999"	"1999/03"	"Cerebrovascular disease, unspecified"	"I67.9"	17
+	"Mar., 1999"	"1999/03"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	43
+	"Mar., 1999"	"1999/03"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	46
+	"Mar., 1999"	"1999/03"	"Generalized and unspecified atherosclerosis"	"I70.9"	62
+	"Mar., 1999"	"1999/03"	"Dissection of aorta [any part]"	"I71.0"	13
+	"Mar., 1999"	"1999/03"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	34
+	"Mar., 1999"	"1999/03"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	11
+	"Mar., 1999"	"1999/03"	"Aortic aneurysm of unspecified site, ruptured"	"I71.8"	12
+	"Mar., 1999"	"1999/03"	"Peripheral vascular disease, unspecified"	"I73.9"	15
+	"Mar., 1999"	"1999/03"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	13
+	"Mar., 1999"	"1999/03"	"Influenza with pneumonia, virus not identified"	"J11.0"	22
+	"Mar., 1999"	"1999/03"	"Bacterial pneumonia, unspecified"	"J15.9"	24
+	"Mar., 1999"	"1999/03"	"Bronchopneumonia, unspecified"	"J18.0"	30
+	"Mar., 1999"	"1999/03"	"Lobar pneumonia, unspecified"	"J18.1"	54
+	"Mar., 1999"	"1999/03"	"Pneumonia, unspecified"	"J18.9"	419
+	"Mar., 1999"	"1999/03"	"Emphysema, unspecified"	"J43.9"	73
+	"Mar., 1999"	"1999/03"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	24
+	"Mar., 1999"	"1999/03"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	586
+	"Mar., 1999"	"1999/03"	"Asthma, unspecified"	"J45.9"	26
+	"Mar., 1999"	"1999/03"	"Pneumonitis due to food and vomit"	"J69.0"	68
+	"Mar., 1999"	"1999/03"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	53
+	"Mar., 1999"	"1999/03"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10
+	"Mar., 1999"	"1999/03"	"Respiratory failure, unspecified"	"J96.9"	15
+	"Mar., 1999"	"1999/03"	"Other disorders of lung"	"J98.4"	14
+	"Mar., 1999"	"1999/03"	"Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage"	"K27.4"	10
+	"Mar., 1999"	"1999/03"	"Acute vascular disorders of intestine"	"K55.0"	19
+	"Mar., 1999"	"1999/03"	"Vascular disorder of intestine, unspecified"	"K55.9"	17
+	"Mar., 1999"	"1999/03"	"Other and unspecified intestinal obstruction"	"K56.6"	17
+	"Mar., 1999"	"1999/03"	"Diverticular disease of intestine, part unspecified, without perforation or abscess"	"K57.9"	12
+	"Mar., 1999"	"1999/03"	"Perforation of intestine (nontraumatic)"	"K63.1"	12
+	"Mar., 1999"	"1999/03"	"Alcoholic cirrhosis of liver"	"K70.3"	38
+	"Mar., 1999"	"1999/03"	"Hepatic failure, unspecified"	"K72.9"	19
+	"Mar., 1999"	"1999/03"	"Other and unspecified cirrhosis of liver"	"K74.6"	67
+	"Mar., 1999"	"1999/03"	"Acute pancreatitis"	"K85"	14
+	"Mar., 1999"	"1999/03"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	41
+	"Mar., 1999"	"1999/03"	"Decubitus ulcer"	"L89"	11
+	"Mar., 1999"	"1999/03"	"Acute renal failure, unspecified"	"N17.9"	30
+	"Mar., 1999"	"1999/03"	"End-stage renal disease"	"N18.0"	56
+	"Mar., 1999"	"1999/03"	"Chronic renal failure, unspecified"	"N18.9"	26
+	"Mar., 1999"	"1999/03"	"Unspecified renal failure"	"N19"	90
+	"Mar., 1999"	"1999/03"	"Urinary tract infection, site not specified"	"N39.0"	75
+	"Mar., 1999"	"1999/03"	"Extreme immaturity"	"P07.2"	11
+	"Mar., 1999"	"1999/03"	"Respiratory distress syndrome of newborn"	"P22.0"	11
+	"Mar., 1999"	"1999/03"	"Other ill-defined and unspecified causes of mortality"	"R99"	52
+	"Mar., 1999"	"1999/03"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	12
+	"Mar., 1999"	"1999/03"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	10
+	"Mar., 1999"	"1999/03"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	18
+	"Mar., 1999"	"1999/03"	"Fall on and from stairs and steps"	"W10"	16
+	"Mar., 1999"	"1999/03"	"Unspecified fall"	"W19"	47
+	"Mar., 1999"	"1999/03"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	12
+	"Mar., 1999"	"1999/03"	"Exposure to uncontrolled fire in building or structure"	"X00"	11
+	"Mar., 1999"	"1999/03"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	50
+	"Mar., 1999"	"1999/03"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	17
+	"Mar., 1999"	"1999/03"	"Exposure to unspecified factor"	"X59"	12
+	"Mar., 1999"	"1999/03"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28
+	"Mar., 1999"	"1999/03"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11
+	"Mar., 1999"	"1999/03"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	26
+	"Mar., 1999"	"1999/03"	"Intentional self-harm by jumping from a high place"	"X80"	13
+	"Mar., 1999"	"1999/03"	"Assault by other and unspecified firearm discharge"	"X95"	34
+	"Mar., 1999"	"1999/03"	"Assault by sharp object"	"X99"	15
+	"Apr., 1999"	"1999/04"	"Septicaemia due to Staphylococcus aureus"	"A41.0"	11
+	"Apr., 1999"	"1999/04"	"Septicaemia due to other Gram-negative organisms"	"A41.5"	11
+	"Apr., 1999"	"1999/04"	"Septicaemia, unspecified"	"A41.9"	125
+	"Apr., 1999"	"1999/04"	"Acute hepatitis C"	"B17.1"	26
+	"Apr., 1999"	"1999/04"	"HIV disease resulting in other bacterial infections"	"B20.1"	26
+	"Apr., 1999"	"1999/04"	"HIV disease resulting in other viral infections"	"B20.3"	10
+	"Apr., 1999"	"1999/04"	"HIV disease resulting in multiple infections"	"B20.7"	19
+	"Apr., 1999"	"1999/04"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	26
+	"Apr., 1999"	"1999/04"	"HIV disease resulting in other specified conditions"	"B23.8"	69
+	"Apr., 1999"	"1999/04"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	25
+	"Apr., 1999"	"1999/04"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	79
+	"Apr., 1999"	"1999/04"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	95
+	"Apr., 1999"	"1999/04"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	265
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of rectum"	"C20"	40
+	"Apr., 1999"	"1999/04"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	36
+	"Apr., 1999"	"1999/04"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	21
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of gallbladder"	"C23"	17
+	"Apr., 1999"	"1999/04"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	150
+	"Apr., 1999"	"1999/04"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	31
+	"Apr., 1999"	"1999/04"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	752
+	"Apr., 1999"	"1999/04"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	39
+	"Apr., 1999"	"1999/04"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	21
+	"Apr., 1999"	"1999/04"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	256
+	"Apr., 1999"	"1999/04"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	24
+	"Apr., 1999"	"1999/04"	"Endometrium - Malignant neoplasms"	"C54.1"	25
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of uterus, part unspecified"	"C55"	27
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of ovary"	"C56"	75
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of prostate"	"C61"	171
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	42
+	"Apr., 1999"	"1999/04"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	96
+	"Apr., 1999"	"1999/04"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	42
+	"Apr., 1999"	"1999/04"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	25
+	"Apr., 1999"	"1999/04"	"Malignant neoplasm without specification of site"	"C80"	125
+	"Apr., 1999"	"1999/04"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	90
+	"Apr., 1999"	"1999/04"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	59
+	"Apr., 1999"	"1999/04"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	30
+	"Apr., 1999"	"1999/04"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	38
+	"Apr., 1999"	"1999/04"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	13
+	"Apr., 1999"	"1999/04"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	14
+	"Apr., 1999"	"1999/04"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	25
+	"Apr., 1999"	"1999/04"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	17
+	"Apr., 1999"	"1999/04"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	15
+	"Apr., 1999"	"1999/04"	"Anaemia, unspecified"	"D64.9"	12
+	"Apr., 1999"	"1999/04"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	32
+	"Apr., 1999"	"1999/04"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	40
+	"Apr., 1999"	"1999/04"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	33
+	"Apr., 1999"	"1999/04"	"Unspecified diabetes mellitus, without complications"	"E14.9"	179
+	"Apr., 1999"	"1999/04"	"Pure hypercholesterolaemia"	"E78.0"	10
+	"Apr., 1999"	"1999/04"	"Volume depletion"	"E86"	21
+	"Apr., 1999"	"1999/04"	"Unspecified dementia"	"F03"	96
+	"Apr., 1999"	"1999/04"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	31
+	"Apr., 1999"	"1999/04"	"Motor neuron disease"	"G12.2"	29
+	"Apr., 1999"	"1999/04"	"Parkinson disease"	"G20"	50
+	"Apr., 1999"	"1999/04"	"Alzheimer disease, unspecified"	"G30.9"	98
+	"Apr., 1999"	"1999/04"	"Multiple sclerosis"	"G35"	14
+	"Apr., 1999"	"1999/04"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	25
+	"Apr., 1999"	"1999/04"	"Essential (primary) hypertension"	"I10"	55
+	"Apr., 1999"	"1999/04"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	52
+	"Apr., 1999"	"1999/04"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	99
+	"Apr., 1999"	"1999/04"	"Hypertensive renal disease with renal failure"	"I12.0"	33
+	"Apr., 1999"	"1999/04"	"Acute myocardial infarction, unspecified"	"I21.9"	1048
+	"Apr., 1999"	"1999/04"	"Other forms of acute ischaemic heart disease"	"I24.8"	15
+	"Apr., 1999"	"1999/04"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	388
+	"Apr., 1999"	"1999/04"	"Atherosclerotic heart disease"	"I25.1"	2145
+	"Apr., 1999"	"1999/04"	"Ischaemic cardiomyopathy"	"I25.5"	56
+	"Apr., 1999"	"1999/04"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	56
+	"Apr., 1999"	"1999/04"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	37
+	"Apr., 1999"	"1999/04"	"Primary pulmonary hypertension"	"I27.0"	17
+	"Apr., 1999"	"1999/04"	"Acute and subacute infective endocarditis"	"I33.0"	13
+	"Apr., 1999"	"1999/04"	"Aortic (valve) stenosis"	"I35.0"	43
+	"Apr., 1999"	"1999/04"	"Endocarditis, valve unspecified"	"I38"	31
+	"Apr., 1999"	"1999/04"	"Dilated cardiomyopathy"	"I42.0"	23
+	"Apr., 1999"	"1999/04"	"Cardiomyopathy, unspecified"	"I42.9"	86
+	"Apr., 1999"	"1999/04"	"Cardiac arrest, unspecified"	"I46.9"	81
+	"Apr., 1999"	"1999/04"	"Atrial fibrillation and flutter"	"I48"	46
+	"Apr., 1999"	"1999/04"	"Cardiac arrhythmia, unspecified"	"I49.9"	26
+	"Apr., 1999"	"1999/04"	"Congestive heart failure"	"I50.0"	228
+	"Apr., 1999"	"1999/04"	"Heart failure, unspecified"	"I50.9"	15
+	"Apr., 1999"	"1999/04"	"Cardiomegaly"	"I51.7"	12
+	"Apr., 1999"	"1999/04"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	27
+	"Apr., 1999"	"1999/04"	"Intracerebral haemorrhage, unspecified"	"I61.9"	67
+	"Apr., 1999"	"1999/04"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	34
+	"Apr., 1999"	"1999/04"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10
+	"Apr., 1999"	"1999/04"	"Cerebral infarction, unspecified"	"I63.9"	38
+	"Apr., 1999"	"1999/04"	"Stroke, not specified as haemorrhage or infarction"	"I64"	324
+	"Apr., 1999"	"1999/04"	"Cerebrovascular disease, unspecified"	"I67.9"	13
+	"Apr., 1999"	"1999/04"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	17
+	"Apr., 1999"	"1999/04"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	43
+	"Apr., 1999"	"1999/04"	"Generalized and unspecified atherosclerosis"	"I70.9"	56
+	"Apr., 1999"	"1999/04"	"Dissection of aorta [any part]"	"I71.0"	21
+	"Apr., 1999"	"1999/04"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	37
+	"Apr., 1999"	"1999/04"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	11
+	"Apr., 1999"	"1999/04"	"Peripheral vascular disease, unspecified"	"I73.9"	24
+	"Apr., 1999"	"1999/04"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	12
+	"Apr., 1999"	"1999/04"	"Bacterial pneumonia, unspecified"	"J15.9"	18
+	"Apr., 1999"	"1999/04"	"Bronchopneumonia, unspecified"	"J18.0"	31
+	"Apr., 1999"	"1999/04"	"Lobar pneumonia, unspecified"	"J18.1"	59
+	"Apr., 1999"	"1999/04"	"Pneumonia, unspecified"	"J18.9"	329
+	"Apr., 1999"	"1999/04"	"Emphysema, unspecified"	"J43.9"	71
+	"Apr., 1999"	"1999/04"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	16
+	"Apr., 1999"	"1999/04"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	463
+	"Apr., 1999"	"1999/04"	"Asthma, unspecified"	"J45.9"	18
+	"Apr., 1999"	"1999/04"	"Pneumonitis due to food and vomit"	"J69.0"	65
+	"Apr., 1999"	"1999/04"	"Adult respiratory distress syndrome"	"J80"	11
+	"Apr., 1999"	"1999/04"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	45
+	"Apr., 1999"	"1999/04"	"Interstitial pulmonary disease, unspecified"	"J84.9"	14
+	"Apr., 1999"	"1999/04"	"Respiratory failure, unspecified"	"J96.9"	12
+	"Apr., 1999"	"1999/04"	"Other disorders of lung"	"J98.4"	11
+	"Apr., 1999"	"1999/04"	"Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage"	"K27.4"	11
+	"Apr., 1999"	"1999/04"	"Acute vascular disorders of intestine"	"K55.0"	16
+	"Apr., 1999"	"1999/04"	"Vascular disorder of intestine, unspecified"	"K55.9"	24
+	"Apr., 1999"	"1999/04"	"Other and unspecified intestinal obstruction"	"K56.6"	17
+	"Apr., 1999"	"1999/04"	"Diverticular disease of intestine, part unspecified, without perforation or abscess"	"K57.9"	10
+	"Apr., 1999"	"1999/04"	"Alcoholic cirrhosis of liver"	"K70.3"	39
+	"Apr., 1999"	"1999/04"	"Alcoholic liver disease, unspecified"	"K70.9"	11
+	"Apr., 1999"	"1999/04"	"Hepatic failure, unspecified"	"K72.9"	21
+	"Apr., 1999"	"1999/04"	"Other and unspecified cirrhosis of liver"	"K74.6"	67
+	"Apr., 1999"	"1999/04"	"Acute pancreatitis"	"K85"	16
+	"Apr., 1999"	"1999/04"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	42
+	"Apr., 1999"	"1999/04"	"Decubitus ulcer"	"L89"	11
+	"Apr., 1999"	"1999/04"	"Acute renal failure, unspecified"	"N17.9"	24
+	"Apr., 1999"	"1999/04"	"End-stage renal disease"	"N18.0"	50
+	"Apr., 1999"	"1999/04"	"Chronic renal failure, unspecified"	"N18.9"	36
+	"Apr., 1999"	"1999/04"	"Unspecified renal failure"	"N19"	56
+	"Apr., 1999"	"1999/04"	"Urinary tract infection, site not specified"	"N39.0"	58
+	"Apr., 1999"	"1999/04"	"Neonatal cardiac dysrhythmia"	"P29.1"	13
+	"Apr., 1999"	"1999/04"	"Sudden infant death syndrome - SIDS"	"R95"	10
+	"Apr., 1999"	"1999/04"	"Other ill-defined and unspecified causes of mortality"	"R99"	40
+	"Apr., 1999"	"1999/04"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	14
+	"Apr., 1999"	"1999/04"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11
+	"Apr., 1999"	"1999/04"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10
+	"Apr., 1999"	"1999/04"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	23
+	"Apr., 1999"	"1999/04"	"Unspecified fall"	"W19"	36
+	"Apr., 1999"	"1999/04"	"Exposure to uncontrolled fire in building or structure"	"X00"	13
+	"Apr., 1999"	"1999/04"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	48
+	"Apr., 1999"	"1999/04"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19
+	"Apr., 1999"	"1999/04"	"Exposure to unspecified factor"	"X59"	22
+	"Apr., 1999"	"1999/04"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	23
+	"Apr., 1999"	"1999/04"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10
+	"Apr., 1999"	"1999/04"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23
+	"Apr., 1999"	"1999/04"	"Intentional self-harm by jumping from a high place"	"X80"	11
+	"Apr., 1999"	"1999/04"	"Assault by other and unspecified firearm discharge"	"X95"	42
+	"May, 1999"	"1999/05"	"Septicaemia, unspecified"	"A41.9"	158
+	"May, 1999"	"1999/05"	"Acute hepatitis C"	"B17.1"	17
+	"May, 1999"	"1999/05"	"HIV disease resulting in other bacterial infections"	"B20.1"	17
+	"May, 1999"	"1999/05"	"HIV disease resulting in multiple infections"	"B20.7"	21
+	"May, 1999"	"1999/05"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	21
+	"May, 1999"	"1999/05"	"HIV disease resulting in other specified conditions"	"B23.8"	67
+	"May, 1999"	"1999/05"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	36
+	"May, 1999"	"1999/05"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	16
+	"May, 1999"	"1999/05"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	57
+	"May, 1999"	"1999/05"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	65
+	"May, 1999"	"1999/05"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	286
+	"May, 1999"	"1999/05"	"Malignant neoplasm of rectum"	"C20"	46
+	"May, 1999"	"1999/05"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	28
+	"May, 1999"	"1999/05"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	14
+	"May, 1999"	"1999/05"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	36
+	"May, 1999"	"1999/05"	"Malignant neoplasm of gallbladder"	"C23"	11
+	"May, 1999"	"1999/05"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	168
+	"May, 1999"	"1999/05"	"Ill-defined sites within the digestive system - Malignant neoplasms"	"C26.9"	10
+	"May, 1999"	"1999/05"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	23
+	"May, 1999"	"1999/05"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	825
+	"May, 1999"	"1999/05"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	39
+	"May, 1999"	"1999/05"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	13
+	"May, 1999"	"1999/05"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	275
+	"May, 1999"	"1999/05"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	28
+	"May, 1999"	"1999/05"	"Endometrium - Malignant neoplasms"	"C54.1"	20
+	"May, 1999"	"1999/05"	"Malignant neoplasm of uterus, part unspecified"	"C55"	19
+	"May, 1999"	"1999/05"	"Malignant neoplasm of ovary"	"C56"	85
+	"May, 1999"	"1999/05"	"Malignant neoplasm of prostate"	"C61"	145
+	"May, 1999"	"1999/05"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	51
+	"May, 1999"	"1999/05"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	68
+	"May, 1999"	"1999/05"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	45
+	"May, 1999"	"1999/05"	"Head, face and neck - Malignant neoplasms"	"C76.0"	13
+	"May, 1999"	"1999/05"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	22
+	"May, 1999"	"1999/05"	"Malignant neoplasm without specification of site"	"C80"	132
+	"May, 1999"	"1999/05"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	112
+	"May, 1999"	"1999/05"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	58
+	"May, 1999"	"1999/05"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	20
+	"May, 1999"	"1999/05"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	37
+	"May, 1999"	"1999/05"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	11
+	"May, 1999"	"1999/05"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	26
+	"May, 1999"	"1999/05"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	27
+	"May, 1999"	"1999/05"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	14
+	"May, 1999"	"1999/05"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	21
+	"May, 1999"	"1999/05"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	28
+	"May, 1999"	"1999/05"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24
+	"May, 1999"	"1999/05"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	12
+	"May, 1999"	"1999/05"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	23
+	"May, 1999"	"1999/05"	"Unspecified diabetes mellitus, without complications"	"E14.9"	180
+	"May, 1999"	"1999/05"	"Volume depletion"	"E86"	22
+	"May, 1999"	"1999/05"	"Unspecified dementia"	"F03"	86
+	"May, 1999"	"1999/05"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	24
+	"May, 1999"	"1999/05"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	10
+	"May, 1999"	"1999/05"	"Motor neuron disease"	"G12.2"	25
+	"May, 1999"	"1999/05"	"Parkinson disease"	"G20"	49
+	"May, 1999"	"1999/05"	"Alzheimer disease, unspecified"	"G30.9"	93
+	"May, 1999"	"1999/05"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	11
+	"May, 1999"	"1999/05"	"Essential (primary) hypertension"	"I10"	68
+	"May, 1999"	"1999/05"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	47
+	"May, 1999"	"1999/05"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	100
+	"May, 1999"	"1999/05"	"Hypertensive renal disease with renal failure"	"I12.0"	26
+	"May, 1999"	"1999/05"	"Acute myocardial infarction, unspecified"	"I21.9"	999
+	"May, 1999"	"1999/05"	"Other forms of acute ischaemic heart disease"	"I24.8"	13
+	"May, 1999"	"1999/05"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	388
+	"May, 1999"	"1999/05"	"Atherosclerotic heart disease"	"I25.1"	2230
+	"May, 1999"	"1999/05"	"Ischaemic cardiomyopathy"	"I25.5"	55
+	"May, 1999"	"1999/05"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	56
+	"May, 1999"	"1999/05"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	29
+	"May, 1999"	"1999/05"	"Primary pulmonary hypertension"	"I27.0"	16
+	"May, 1999"	"1999/05"	"Mitral (valve) insufficiency"	"I34.0"	18
+	"May, 1999"	"1999/05"	"Aortic (valve) stenosis"	"I35.0"	54
+	"May, 1999"	"1999/05"	"Endocarditis, valve unspecified"	"I38"	33
+	"May, 1999"	"1999/05"	"Dilated cardiomyopathy"	"I42.0"	25
+	"May, 1999"	"1999/05"	"Cardiomyopathy, unspecified"	"I42.9"	92
+	"May, 1999"	"1999/05"	"Cardiac arrest, unspecified"	"I46.9"	93
+	"May, 1999"	"1999/05"	"Atrial fibrillation and flutter"	"I48"	45
+	"May, 1999"	"1999/05"	"Cardiac arrhythmia, unspecified"	"I49.9"	26
+	"May, 1999"	"1999/05"	"Congestive heart failure"	"I50.0"	219
+	"May, 1999"	"1999/05"	"Heart failure, unspecified"	"I50.9"	13
+	"May, 1999"	"1999/05"	"Cardiovascular disease, unspecified"	"I51.6"	10
+	"May, 1999"	"1999/05"	"Cardiomegaly"	"I51.7"	16
+	"May, 1999"	"1999/05"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	26
+	"May, 1999"	"1999/05"	"Intracerebral haemorrhage, unspecified"	"I61.9"	75
+	"May, 1999"	"1999/05"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	37
+	"May, 1999"	"1999/05"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	11
+	"May, 1999"	"1999/05"	"Cerebral infarction, unspecified"	"I63.9"	45
+	"May, 1999"	"1999/05"	"Stroke, not specified as haemorrhage or infarction"	"I64"	344
+	"May, 1999"	"1999/05"	"Cerebrovascular disease, unspecified"	"I67.9"	14
+	"May, 1999"	"1999/05"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	27
+	"May, 1999"	"1999/05"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	32
+	"May, 1999"	"1999/05"	"Generalized and unspecified atherosclerosis"	"I70.9"	48
+	"May, 1999"	"1999/05"	"Dissection of aorta [any part]"	"I71.0"	22
+	"May, 1999"	"1999/05"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	18
+	"May, 1999"	"1999/05"	"Peripheral vascular disease, unspecified"	"I73.9"	25
+	"May, 1999"	"1999/05"	"Bacterial pneumonia, unspecified"	"J15.9"	19
+	"May, 1999"	"1999/05"	"Bronchopneumonia, unspecified"	"J18.0"	23
+	"May, 1999"	"1999/05"	"Lobar pneumonia, unspecified"	"J18.1"	41
+	"May, 1999"	"1999/05"	"Pneumonia, unspecified"	"J18.9"	276
+	"May, 1999"	"1999/05"	"Emphysema, unspecified"	"J43.9"	56
+	"May, 1999"	"1999/05"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10
+	"May, 1999"	"1999/05"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	393
+	"May, 1999"	"1999/05"	"Asthma, unspecified"	"J45.9"	31
+	"May, 1999"	"1999/05"	"Pneumonitis due to food and vomit"	"J69.0"	45
+	"May, 1999"	"1999/05"	"Adult respiratory distress syndrome"	"J80"	14
+	"May, 1999"	"1999/05"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	39
+	"May, 1999"	"1999/05"	"Other disorders of lung"	"J98.4"	20
+	"May, 1999"	"1999/05"	"Acute vascular disorders of intestine"	"K55.0"	24
+	"May, 1999"	"1999/05"	"Vascular disorder of intestine, unspecified"	"K55.9"	14
+	"May, 1999"	"1999/05"	"Other and unspecified intestinal obstruction"	"K56.6"	13
+	"May, 1999"	"1999/05"	"Alcoholic cirrhosis of liver"	"K70.3"	41
+	"May, 1999"	"1999/05"	"Hepatic failure, unspecified"	"K72.9"	15
+	"May, 1999"	"1999/05"	"Other and unspecified cirrhosis of liver"	"K74.6"	67
+	"May, 1999"	"1999/05"	"Acute pancreatitis"	"K85"	11
+	"May, 1999"	"1999/05"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	31
+	"May, 1999"	"1999/05"	"Decubitus ulcer"	"L89"	13
+	"May, 1999"	"1999/05"	"Osteomyelitis, unspecified"	"M86.9"	10
+	"May, 1999"	"1999/05"	"Acute renal failure, unspecified"	"N17.9"	27
+	"May, 1999"	"1999/05"	"End-stage renal disease"	"N18.0"	49
+	"May, 1999"	"1999/05"	"Chronic renal failure, unspecified"	"N18.9"	33
+	"May, 1999"	"1999/05"	"Unspecified renal failure"	"N19"	82
+	"May, 1999"	"1999/05"	"Urinary tract infection, site not specified"	"N39.0"	59
+	"May, 1999"	"1999/05"	"Extreme immaturity"	"P07.2"	13
+	"May, 1999"	"1999/05"	"Neonatal cardiac dysrhythmia"	"P29.1"	17
+	"May, 1999"	"1999/05"	"Sudden infant death syndrome - SIDS"	"R95"	14
+	"May, 1999"	"1999/05"	"Other ill-defined and unspecified causes of mortality"	"R99"	59
+	"May, 1999"	"1999/05"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	17
+	"May, 1999"	"1999/05"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	18
+	"May, 1999"	"1999/05"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	13
+	"May, 1999"	"1999/05"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	27
+	"May, 1999"	"1999/05"	"Fall on and from stairs and steps"	"W10"	16
+	"May, 1999"	"1999/05"	"Unspecified fall"	"W19"	40
+	"May, 1999"	"1999/05"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	20
+	"May, 1999"	"1999/05"	"Exposure to uncontrolled fire in building or structure"	"X00"	11
+	"May, 1999"	"1999/05"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	61
+	"May, 1999"	"1999/05"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	20
+	"May, 1999"	"1999/05"	"Exposure to unspecified factor"	"X59"	31
+	"May, 1999"	"1999/05"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	40
+	"May, 1999"	"1999/05"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	27
+	"May, 1999"	"1999/05"	"Intentional self-harm by jumping from a high place"	"X80"	19
+	"May, 1999"	"1999/05"	"Assault by other and unspecified firearm discharge"	"X95"	43
+	"May, 1999"	"1999/05"	"Assault by sharp object"	"X99"	13
+	"Jun., 1999"	"1999/06"	"Septicaemia, unspecified"	"A41.9"	140
+	"Jun., 1999"	"1999/06"	"Acute hepatitis C"	"B17.1"	15
+	"Jun., 1999"	"1999/06"	"HIV disease resulting in other bacterial infections"	"B20.1"	19
+	"Jun., 1999"	"1999/06"	"HIV disease resulting in multiple infections"	"B20.7"	14
+	"Jun., 1999"	"1999/06"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	20
+	"Jun., 1999"	"1999/06"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	12
+	"Jun., 1999"	"1999/06"	"HIV disease resulting in other specified conditions"	"B23.8"	49
+	"Jun., 1999"	"1999/06"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	30
+	"Jun., 1999"	"1999/06"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	60
+	"Jun., 1999"	"1999/06"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	94
+	"Jun., 1999"	"1999/06"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	296
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of rectosigmoid junction"	"C19"	11
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of rectum"	"C20"	34
+	"Jun., 1999"	"1999/06"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	27
+	"Jun., 1999"	"1999/06"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12
+	"Jun., 1999"	"1999/06"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	33
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of gallbladder"	"C23"	15
+	"Jun., 1999"	"1999/06"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	175
+	"Jun., 1999"	"1999/06"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	18
+	"Jun., 1999"	"1999/06"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	760
+	"Jun., 1999"	"1999/06"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	35
+	"Jun., 1999"	"1999/06"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	253
+	"Jun., 1999"	"1999/06"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	18
+	"Jun., 1999"	"1999/06"	"Endometrium - Malignant neoplasms"	"C54.1"	18
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of uterus, part unspecified"	"C55"	27
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of ovary"	"C56"	78
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of prostate"	"C61"	156
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	63
+	"Jun., 1999"	"1999/06"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	78
+	"Jun., 1999"	"1999/06"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	73
+	"Jun., 1999"	"1999/06"	"Head, face and neck - Malignant neoplasms"	"C76.0"	11
+	"Jun., 1999"	"1999/06"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	19
+	"Jun., 1999"	"1999/06"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10
+	"Jun., 1999"	"1999/06"	"Malignant neoplasm without specification of site"	"C80"	130
+	"Jun., 1999"	"1999/06"	"Hodgkin disease, unspecified"	"C81.9"	13
+	"Jun., 1999"	"1999/06"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	71
+	"Jun., 1999"	"1999/06"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	50
+	"Jun., 1999"	"1999/06"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	16
+	"Jun., 1999"	"1999/06"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	35
+	"Jun., 1999"	"1999/06"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	10
+	"Jun., 1999"	"1999/06"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	14
+	"Jun., 1999"	"1999/06"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	13
+	"Jun., 1999"	"1999/06"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	16
+	"Jun., 1999"	"1999/06"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	13
+	"Jun., 1999"	"1999/06"	"Chronic myeloproliferative disease - Uncertain neoplasms"	"D47.1"	11
+	"Jun., 1999"	"1999/06"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	13
+	"Jun., 1999"	"1999/06"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24
+	"Jun., 1999"	"1999/06"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	26
+	"Jun., 1999"	"1999/06"	"Unspecified diabetes mellitus, without complications"	"E14.9"	181
+	"Jun., 1999"	"1999/06"	"Volume depletion"	"E86"	18
+	"Jun., 1999"	"1999/06"	"Unspecified dementia"	"F03"	81
+	"Jun., 1999"	"1999/06"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	22
+	"Jun., 1999"	"1999/06"	"Motor neuron disease"	"G12.2"	18
+	"Jun., 1999"	"1999/06"	"Parkinson disease"	"G20"	37
+	"Jun., 1999"	"1999/06"	"Alzheimer disease, unspecified"	"G30.9"	79
+	"Jun., 1999"	"1999/06"	"Multiple sclerosis"	"G35"	10
+	"Jun., 1999"	"1999/06"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	21
+	"Jun., 1999"	"1999/06"	"Essential (primary) hypertension"	"I10"	65
+	"Jun., 1999"	"1999/06"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	34
+	"Jun., 1999"	"1999/06"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	101
+	"Jun., 1999"	"1999/06"	"Hypertensive renal disease with renal failure"	"I12.0"	42
+	"Jun., 1999"	"1999/06"	"Acute myocardial infarction, unspecified"	"I21.9"	959
+	"Jun., 1999"	"1999/06"	"Other forms of acute ischaemic heart disease"	"I24.8"	15
+	"Jun., 1999"	"1999/06"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	372
+	"Jun., 1999"	"1999/06"	"Atherosclerotic heart disease"	"I25.1"	2080
+	"Jun., 1999"	"1999/06"	"Ischaemic cardiomyopathy"	"I25.5"	45
+	"Jun., 1999"	"1999/06"	"Other forms of chronic ischaemic heart disease"	"I25.8"	11
+	"Jun., 1999"	"1999/06"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	59
+	"Jun., 1999"	"1999/06"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	32
+	"Jun., 1999"	"1999/06"	"Primary pulmonary hypertension"	"I27.0"	14
+	"Jun., 1999"	"1999/06"	"Mitral (valve) insufficiency"	"I34.0"	10
+	"Jun., 1999"	"1999/06"	"Aortic (valve) stenosis"	"I35.0"	51
+	"Jun., 1999"	"1999/06"	"Aortic valve disorder, unspecified"	"I35.9"	11
+	"Jun., 1999"	"1999/06"	"Endocarditis, valve unspecified"	"I38"	20
+	"Jun., 1999"	"1999/06"	"Dilated cardiomyopathy"	"I42.0"	23
+	"Jun., 1999"	"1999/06"	"Cardiomyopathy, unspecified"	"I42.9"	68
+	"Jun., 1999"	"1999/06"	"Cardiac arrest, unspecified"	"I46.9"	91
+	"Jun., 1999"	"1999/06"	"Atrial fibrillation and flutter"	"I48"	47
+	"Jun., 1999"	"1999/06"	"Cardiac arrhythmia, unspecified"	"I49.9"	14
+	"Jun., 1999"	"1999/06"	"Congestive heart failure"	"I50.0"	176
+	"Jun., 1999"	"1999/06"	"Heart failure, unspecified"	"I50.9"	11
+	"Jun., 1999"	"1999/06"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	28
+	"Jun., 1999"	"1999/06"	"Intracerebral haemorrhage, unspecified"	"I61.9"	59
+	"Jun., 1999"	"1999/06"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	38
+	"Jun., 1999"	"1999/06"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	14
+	"Jun., 1999"	"1999/06"	"Cerebral infarction, unspecified"	"I63.9"	33
+	"Jun., 1999"	"1999/06"	"Stroke, not specified as haemorrhage or infarction"	"I64"	292
+	"Jun., 1999"	"1999/06"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	26
+	"Jun., 1999"	"1999/06"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	36
+	"Jun., 1999"	"1999/06"	"Generalized and unspecified atherosclerosis"	"I70.9"	47
+	"Jun., 1999"	"1999/06"	"Dissection of aorta [any part]"	"I71.0"	20
+	"Jun., 1999"	"1999/06"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	33
+	"Jun., 1999"	"1999/06"	"Peripheral vascular disease, unspecified"	"I73.9"	30
+	"Jun., 1999"	"1999/06"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	10
+	"Jun., 1999"	"1999/06"	"Bacterial pneumonia, unspecified"	"J15.9"	10
+	"Jun., 1999"	"1999/06"	"Bronchopneumonia, unspecified"	"J18.0"	19
+	"Jun., 1999"	"1999/06"	"Lobar pneumonia, unspecified"	"J18.1"	43
+	"Jun., 1999"	"1999/06"	"Pneumonia, unspecified"	"J18.9"	231
+	"Jun., 1999"	"1999/06"	"Emphysema, unspecified"	"J43.9"	62
+	"Jun., 1999"	"1999/06"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	12
+	"Jun., 1999"	"1999/06"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	413
+	"Jun., 1999"	"1999/06"	"Asthma, unspecified"	"J45.9"	17
+	"Jun., 1999"	"1999/06"	"Pneumonitis due to food and vomit"	"J69.0"	43
+	"Jun., 1999"	"1999/06"	"Adult respiratory distress syndrome"	"J80"	12
+	"Jun., 1999"	"1999/06"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	40
+	"Jun., 1999"	"1999/06"	"Respiratory failure, unspecified"	"J96.9"	12
+	"Jun., 1999"	"1999/06"	"Acute vascular disorders of intestine"	"K55.0"	16
+	"Jun., 1999"	"1999/06"	"Vascular disorder of intestine, unspecified"	"K55.9"	21
+	"Jun., 1999"	"1999/06"	"Other and unspecified intestinal obstruction"	"K56.6"	14
+	"Jun., 1999"	"1999/06"	"Alcoholic cirrhosis of liver"	"K70.3"	37
+	"Jun., 1999"	"1999/06"	"Hepatic failure, unspecified"	"K72.9"	23
+	"Jun., 1999"	"1999/06"	"Other and unspecified cirrhosis of liver"	"K74.6"	58
+	"Jun., 1999"	"1999/06"	"Liver disease, unspecified"	"K76.9"	11
+	"Jun., 1999"	"1999/06"	"Acute pancreatitis"	"K85"	15
+	"Jun., 1999"	"1999/06"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	32
+	"Jun., 1999"	"1999/06"	"Systemic lupus erythematosus with organ or system involvement"	"M32.1"	11
+	"Jun., 1999"	"1999/06"	"Acute renal failure, unspecified"	"N17.9"	32
+	"Jun., 1999"	"1999/06"	"End-stage renal disease"	"N18.0"	44
+	"Jun., 1999"	"1999/06"	"Chronic renal failure, unspecified"	"N18.9"	27
+	"Jun., 1999"	"1999/06"	"Unspecified renal failure"	"N19"	67
+	"Jun., 1999"	"1999/06"	"Urinary tract infection, site not specified"	"N39.0"	53
+	"Jun., 1999"	"1999/06"	"Respiratory distress syndrome of newborn"	"P22.0"	11
+	"Jun., 1999"	"1999/06"	"Other ill-defined and unspecified causes of mortality"	"R99"	117
+	"Jun., 1999"	"1999/06"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	18
+	"Jun., 1999"	"1999/06"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11
+	"Jun., 1999"	"1999/06"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	13
+	"Jun., 1999"	"1999/06"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	13
+	"Jun., 1999"	"1999/06"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	26
+	"Jun., 1999"	"1999/06"	"Fall on and from stairs and steps"	"W10"	16
+	"Jun., 1999"	"1999/06"	"Unspecified fall"	"W19"	32
+	"Jun., 1999"	"1999/06"	"Unspecified drowning and submersion"	"W74"	15
+	"Jun., 1999"	"1999/06"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11
+	"Jun., 1999"	"1999/06"	"Exposure to uncontrolled fire in building or structure"	"X00"	16
+	"Jun., 1999"	"1999/06"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	64
+	"Jun., 1999"	"1999/06"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	19
+	"Jun., 1999"	"1999/06"	"Exposure to unspecified factor"	"X59"	25
+	"Jun., 1999"	"1999/06"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	29
+	"Jun., 1999"	"1999/06"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	23
+	"Jun., 1999"	"1999/06"	"Intentional self-harm by jumping from a high place"	"X80"	12
+	"Jun., 1999"	"1999/06"	"Assault by other and unspecified firearm discharge"	"X95"	47
+	"Jun., 1999"	"1999/06"	"Assault by sharp object"	"X99"	12
+	"Jun., 1999"	"1999/06"	"Assault by unspecified means"	"Y09"	11
+	"Jul., 1999"	"1999/07"	"Septicaemia due to other Gram-negative organisms"	"A41.5"	11
+	"Jul., 1999"	"1999/07"	"Septicaemia, unspecified"	"A41.9"	134
+	"Jul., 1999"	"1999/07"	"Acute hepatitis C"	"B17.1"	19
+	"Jul., 1999"	"1999/07"	"HIV disease resulting in other bacterial infections"	"B20.1"	20
+	"Jul., 1999"	"1999/07"	"HIV disease resulting in Pneumocystis carinii pneumonia"	"B20.6"	11
+	"Jul., 1999"	"1999/07"	"HIV disease resulting in multiple infections"	"B20.7"	14
+	"Jul., 1999"	"1999/07"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	19
+	"Jul., 1999"	"1999/07"	"HIV disease resulting in other specified conditions"	"B23.8"	63
+	"Jul., 1999"	"1999/07"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	35
+	"Jul., 1999"	"1999/07"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	10
+	"Jul., 1999"	"1999/07"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	76
+	"Jul., 1999"	"1999/07"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	88
+	"Jul., 1999"	"1999/07"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	314
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of rectum"	"C20"	39
+	"Jul., 1999"	"1999/07"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	32
+	"Jul., 1999"	"1999/07"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13
+	"Jul., 1999"	"1999/07"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	39
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of gallbladder"	"C23"	14
+	"Jul., 1999"	"1999/07"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	176
+	"Jul., 1999"	"1999/07"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	33
+	"Jul., 1999"	"1999/07"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	794
+	"Jul., 1999"	"1999/07"	"Bone and articular cartilage, unspecified - Malignant neoplasms"	"C41.9"	10
+	"Jul., 1999"	"1999/07"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	23
+	"Jul., 1999"	"1999/07"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	12
+	"Jul., 1999"	"1999/07"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	17
+	"Jul., 1999"	"1999/07"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	269
+	"Jul., 1999"	"1999/07"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	27
+	"Jul., 1999"	"1999/07"	"Endometrium - Malignant neoplasms"	"C54.1"	17
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of uterus, part unspecified"	"C55"	24
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of ovary"	"C56"	75
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of prostate"	"C61"	158
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	48
+	"Jul., 1999"	"1999/07"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	84
+	"Jul., 1999"	"1999/07"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	64
+	"Jul., 1999"	"1999/07"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	24
+	"Jul., 1999"	"1999/07"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	13
+	"Jul., 1999"	"1999/07"	"Malignant neoplasm without specification of site"	"C80"	145
+	"Jul., 1999"	"1999/07"	"Hodgkin disease, unspecified"	"C81.9"	15
+	"Jul., 1999"	"1999/07"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	111
+	"Jul., 1999"	"1999/07"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	65
+	"Jul., 1999"	"1999/07"	"Acute lymphoblastic leukaemia - Malignant neoplasms"	"C91.0"	10
+	"Jul., 1999"	"1999/07"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	23
+	"Jul., 1999"	"1999/07"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	32
+	"Jul., 1999"	"1999/07"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	15
+	"Jul., 1999"	"1999/07"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	13
+	"Jul., 1999"	"1999/07"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	13
+	"Jul., 1999"	"1999/07"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	29
+	"Jul., 1999"	"1999/07"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	11
+	"Jul., 1999"	"1999/07"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	26
+	"Jul., 1999"	"1999/07"	"Anaemia, unspecified"	"D64.9"	13
+	"Jul., 1999"	"1999/07"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	24
+	"Jul., 1999"	"1999/07"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	31
+	"Jul., 1999"	"1999/07"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	22
+	"Jul., 1999"	"1999/07"	"Unspecified diabetes mellitus, without complications"	"E14.9"	180
+	"Jul., 1999"	"1999/07"	"Obesity, unspecified"	"E66.9"	10
+	"Jul., 1999"	"1999/07"	"Volume depletion"	"E86"	18
+	"Jul., 1999"	"1999/07"	"Unspecified dementia"	"F03"	86
+	"Jul., 1999"	"1999/07"	"Mental and behavioural disorders due to use of alcohol, harmful use"	"F10.1"	13
+	"Jul., 1999"	"1999/07"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	36
+	"Jul., 1999"	"1999/07"	"Motor neuron disease"	"G12.2"	19
+	"Jul., 1999"	"1999/07"	"Parkinson disease"	"G20"	44
+	"Jul., 1999"	"1999/07"	"Alzheimer disease, unspecified"	"G30.9"	90
+	"Jul., 1999"	"1999/07"	"Multiple sclerosis"	"G35"	10
+	"Jul., 1999"	"1999/07"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	12
+	"Jul., 1999"	"1999/07"	"Essential (primary) hypertension"	"I10"	57
+	"Jul., 1999"	"1999/07"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43
+	"Jul., 1999"	"1999/07"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	101
+	"Jul., 1999"	"1999/07"	"Hypertensive renal disease with renal failure"	"I12.0"	32
+	"Jul., 1999"	"1999/07"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10
+	"Jul., 1999"	"1999/07"	"Acute myocardial infarction, unspecified"	"I21.9"	1001
+	"Jul., 1999"	"1999/07"	"Other forms of acute ischaemic heart disease"	"I24.8"	17
+	"Jul., 1999"	"1999/07"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	538
+	"Jul., 1999"	"1999/07"	"Atherosclerotic heart disease"	"I25.1"	2142
+	"Jul., 1999"	"1999/07"	"Ischaemic cardiomyopathy"	"I25.5"	45
+	"Jul., 1999"	"1999/07"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	67
+	"Jul., 1999"	"1999/07"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	35
+	"Jul., 1999"	"1999/07"	"Primary pulmonary hypertension"	"I27.0"	15
+	"Jul., 1999"	"1999/07"	"Mitral (valve) insufficiency"	"I34.0"	12
+	"Jul., 1999"	"1999/07"	"Aortic (valve) stenosis"	"I35.0"	37
+	"Jul., 1999"	"1999/07"	"Aortic valve disorder, unspecified"	"I35.9"	12
+	"Jul., 1999"	"1999/07"	"Endocarditis, valve unspecified"	"I38"	24
+	"Jul., 1999"	"1999/07"	"Dilated cardiomyopathy"	"I42.0"	22
+	"Jul., 1999"	"1999/07"	"Cardiomyopathy, unspecified"	"I42.9"	64
+	"Jul., 1999"	"1999/07"	"Cardiac arrest, unspecified"	"I46.9"	118
+	"Jul., 1999"	"1999/07"	"Atrial fibrillation and flutter"	"I48"	43
+	"Jul., 1999"	"1999/07"	"Cardiac arrhythmia, unspecified"	"I49.9"	25
+	"Jul., 1999"	"1999/07"	"Congestive heart failure"	"I50.0"	224
+	"Jul., 1999"	"1999/07"	"Heart failure, unspecified"	"I50.9"	14
+	"Jul., 1999"	"1999/07"	"Cardiovascular disease, unspecified"	"I51.6"	16
+	"Jul., 1999"	"1999/07"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33
+	"Jul., 1999"	"1999/07"	"Intracerebral haemorrhage, unspecified"	"I61.9"	55
+	"Jul., 1999"	"1999/07"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	28
+	"Jul., 1999"	"1999/07"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	10
+	"Jul., 1999"	"1999/07"	"Cerebral infarction, unspecified"	"I63.9"	46
+	"Jul., 1999"	"1999/07"	"Stroke, not specified as haemorrhage or infarction"	"I64"	337
+	"Jul., 1999"	"1999/07"	"Cerebrovascular disease, unspecified"	"I67.9"	14
+	"Jul., 1999"	"1999/07"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	28
+	"Jul., 1999"	"1999/07"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	40
+	"Jul., 1999"	"1999/07"	"Generalized and unspecified atherosclerosis"	"I70.9"	43
+	"Jul., 1999"	"1999/07"	"Dissection of aorta [any part]"	"I71.0"	18
+	"Jul., 1999"	"1999/07"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	29
+	"Jul., 1999"	"1999/07"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	12
+	"Jul., 1999"	"1999/07"	"Peripheral vascular disease, unspecified"	"I73.9"	28
+	"Jul., 1999"	"1999/07"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	11
+	"Jul., 1999"	"1999/07"	"Bacterial pneumonia, unspecified"	"J15.9"	18
+	"Jul., 1999"	"1999/07"	"Bronchopneumonia, unspecified"	"J18.0"	25
+	"Jul., 1999"	"1999/07"	"Lobar pneumonia, unspecified"	"J18.1"	30
+	"Jul., 1999"	"1999/07"	"Pneumonia, unspecified"	"J18.9"	256
+	"Jul., 1999"	"1999/07"	"Emphysema, unspecified"	"J43.9"	56
+	"Jul., 1999"	"1999/07"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	16
+	"Jul., 1999"	"1999/07"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	384
+	"Jul., 1999"	"1999/07"	"Asthma, unspecified"	"J45.9"	26
+	"Jul., 1999"	"1999/07"	"Pneumonitis due to food and vomit"	"J69.0"	52
+	"Jul., 1999"	"1999/07"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	24
+	"Jul., 1999"	"1999/07"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10
+	"Jul., 1999"	"1999/07"	"Respiratory failure, unspecified"	"J96.9"	17
+	"Jul., 1999"	"1999/07"	"Other disorders of lung"	"J98.4"	10
+	"Jul., 1999"	"1999/07"	"Acute vascular disorders of intestine"	"K55.0"	22
+	"Jul., 1999"	"1999/07"	"Vascular disorder of intestine, unspecified"	"K55.9"	13
+	"Jul., 1999"	"1999/07"	"Other and unspecified intestinal obstruction"	"K56.6"	16
+	"Jul., 1999"	"1999/07"	"Alcoholic cirrhosis of liver"	"K70.3"	41
+	"Jul., 1999"	"1999/07"	"Hepatic failure, unspecified"	"K72.9"	23
+	"Jul., 1999"	"1999/07"	"Other and unspecified cirrhosis of liver"	"K74.6"	61
+	"Jul., 1999"	"1999/07"	"Acute pancreatitis"	"K85"	13
+	"Jul., 1999"	"1999/07"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	41
+	"Jul., 1999"	"1999/07"	"Decubitus ulcer"	"L89"	14
+	"Jul., 1999"	"1999/07"	"Systemic lupus erythematosus with organ or system involvement"	"M32.1"	11
+	"Jul., 1999"	"1999/07"	"Acute renal failure, unspecified"	"N17.9"	19
+	"Jul., 1999"	"1999/07"	"End-stage renal disease"	"N18.0"	46
+	"Jul., 1999"	"1999/07"	"Chronic renal failure, unspecified"	"N18.9"	37
+	"Jul., 1999"	"1999/07"	"Unspecified renal failure"	"N19"	68
+	"Jul., 1999"	"1999/07"	"Urinary tract infection, site not specified"	"N39.0"	59
+	"Jul., 1999"	"1999/07"	"Neonatal cardiac dysrhythmia"	"P29.1"	17
+	"Jul., 1999"	"1999/07"	"Respiratory arrest"	"R09.2"	10
+	"Jul., 1999"	"1999/07"	"Other ill-defined and unspecified causes of mortality"	"R99"	146
+	"Jul., 1999"	"1999/07"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	15
+	"Jul., 1999"	"1999/07"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	11
+	"Jul., 1999"	"1999/07"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	16
+	"Jul., 1999"	"1999/07"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	10
+	"Jul., 1999"	"1999/07"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	18
+	"Jul., 1999"	"1999/07"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	37
+	"Jul., 1999"	"1999/07"	"Fall on and from stairs and steps"	"W10"	15
+	"Jul., 1999"	"1999/07"	"Unspecified fall"	"W19"	40
+	"Jul., 1999"	"1999/07"	"Unspecified drowning and submersion"	"W74"	16
+	"Jul., 1999"	"1999/07"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11
+	"Jul., 1999"	"1999/07"	"Exposure to excessive natural heat"	"X30"	31
+	"Jul., 1999"	"1999/07"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	61
+	"Jul., 1999"	"1999/07"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	26
+	"Jul., 1999"	"1999/07"	"Exposure to unspecified factor"	"X59"	27
+	"Jul., 1999"	"1999/07"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28
+	"Jul., 1999"	"1999/07"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15
+	"Jul., 1999"	"1999/07"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	28
+	"Jul., 1999"	"1999/07"	"Assault by other and unspecified firearm discharge"	"X95"	40
+	"Jul., 1999"	"1999/07"	"Assault by sharp object"	"X99"	17
+	"Jul., 1999"	"1999/07"	"Assault by other specified means"	"Y08"	10
+	"Aug., 1999"	"1999/08"	"Septicaemia, unspecified"	"A41.9"	141
+	"Aug., 1999"	"1999/08"	"Acute hepatitis C"	"B17.1"	24
+	"Aug., 1999"	"1999/08"	"HIV disease resulting in other bacterial infections"	"B20.1"	14
+	"Aug., 1999"	"1999/08"	"HIV disease resulting in multiple infections"	"B20.7"	12
+	"Aug., 1999"	"1999/08"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	22
+	"Aug., 1999"	"1999/08"	"HIV disease resulting in other specified conditions"	"B23.8"	56
+	"Aug., 1999"	"1999/08"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	26
+	"Aug., 1999"	"1999/08"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	11
+	"Aug., 1999"	"1999/08"	"Pharynx, unspecified - Malignant neoplasms"	"C14.0"	10
+	"Aug., 1999"	"1999/08"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	79
+	"Aug., 1999"	"1999/08"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	92
+	"Aug., 1999"	"1999/08"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	290
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of rectosigmoid junction"	"C19"	10
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of rectum"	"C20"	45
+	"Aug., 1999"	"1999/08"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	34
+	"Aug., 1999"	"1999/08"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	13
+	"Aug., 1999"	"1999/08"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	32
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of gallbladder"	"C23"	16
+	"Aug., 1999"	"1999/08"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	205
+	"Aug., 1999"	"1999/08"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	23
+	"Aug., 1999"	"1999/08"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	724
+	"Aug., 1999"	"1999/08"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	36
+	"Aug., 1999"	"1999/08"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	16
+	"Aug., 1999"	"1999/08"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	270
+	"Aug., 1999"	"1999/08"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	34
+	"Aug., 1999"	"1999/08"	"Endometrium - Malignant neoplasms"	"C54.1"	14
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of uterus, part unspecified"	"C55"	14
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of ovary"	"C56"	74
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of prostate"	"C61"	184
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	48
+	"Aug., 1999"	"1999/08"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	70
+	"Aug., 1999"	"1999/08"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	64
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm of thyroid gland"	"C73"	11
+	"Aug., 1999"	"1999/08"	"Head, face and neck - Malignant neoplasms"	"C76.0"	10
+	"Aug., 1999"	"1999/08"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	20
+	"Aug., 1999"	"1999/08"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	11
+	"Aug., 1999"	"1999/08"	"Malignant neoplasm without specification of site"	"C80"	164
+	"Aug., 1999"	"1999/08"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	103
+	"Aug., 1999"	"1999/08"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	54
+	"Aug., 1999"	"1999/08"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	20
+	"Aug., 1999"	"1999/08"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	48
+	"Aug., 1999"	"1999/08"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	14
+	"Aug., 1999"	"1999/08"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	13
+	"Aug., 1999"	"1999/08"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	11
+	"Aug., 1999"	"1999/08"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	19
+	"Aug., 1999"	"1999/08"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	19
+	"Aug., 1999"	"1999/08"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	27
+	"Aug., 1999"	"1999/08"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	24
+	"Aug., 1999"	"1999/08"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	29
+	"Aug., 1999"	"1999/08"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	16
+	"Aug., 1999"	"1999/08"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	28
+	"Aug., 1999"	"1999/08"	"Unspecified diabetes mellitus, without complications"	"E14.9"	156
+	"Aug., 1999"	"1999/08"	"Volume depletion"	"E86"	20
+	"Aug., 1999"	"1999/08"	"Unspecified dementia"	"F03"	81
+	"Aug., 1999"	"1999/08"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	26
+	"Aug., 1999"	"1999/08"	"Motor neuron disease"	"G12.2"	16
+	"Aug., 1999"	"1999/08"	"Parkinson disease"	"G20"	42
+	"Aug., 1999"	"1999/08"	"Alzheimer disease, unspecified"	"G30.9"	70
+	"Aug., 1999"	"1999/08"	"Multiple sclerosis"	"G35"	10
+	"Aug., 1999"	"1999/08"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	14
+	"Aug., 1999"	"1999/08"	"Essential (primary) hypertension"	"I10"	49
+	"Aug., 1999"	"1999/08"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	43
+	"Aug., 1999"	"1999/08"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	90
+	"Aug., 1999"	"1999/08"	"Hypertensive renal disease with renal failure"	"I12.0"	49
+	"Aug., 1999"	"1999/08"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10
+	"Aug., 1999"	"1999/08"	"Acute myocardial infarction, unspecified"	"I21.9"	963
+	"Aug., 1999"	"1999/08"	"Other forms of acute ischaemic heart disease"	"I24.8"	19
+	"Aug., 1999"	"1999/08"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	359
+	"Aug., 1999"	"1999/08"	"Atherosclerotic heart disease"	"I25.1"	1991
+	"Aug., 1999"	"1999/08"	"Ischaemic cardiomyopathy"	"I25.5"	52
+	"Aug., 1999"	"1999/08"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	48
+	"Aug., 1999"	"1999/08"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	35
+	"Aug., 1999"	"1999/08"	"Primary pulmonary hypertension"	"I27.0"	14
+	"Aug., 1999"	"1999/08"	"Aortic (valve) stenosis"	"I35.0"	31
+	"Aug., 1999"	"1999/08"	"Endocarditis, valve unspecified"	"I38"	22
+	"Aug., 1999"	"1999/08"	"Dilated cardiomyopathy"	"I42.0"	20
+	"Aug., 1999"	"1999/08"	"Cardiomyopathy, unspecified"	"I42.9"	67
+	"Aug., 1999"	"1999/08"	"Cardiac arrest, unspecified"	"I46.9"	87
+	"Aug., 1999"	"1999/08"	"Atrial fibrillation and flutter"	"I48"	41
+	"Aug., 1999"	"1999/08"	"Cardiac arrhythmia, unspecified"	"I49.9"	33
+	"Aug., 1999"	"1999/08"	"Congestive heart failure"	"I50.0"	185
+	"Aug., 1999"	"1999/08"	"Heart failure, unspecified"	"I50.9"	10
+	"Aug., 1999"	"1999/08"	"Cardiovascular disease, unspecified"	"I51.6"	16
+	"Aug., 1999"	"1999/08"	"Cardiomegaly"	"I51.7"	13
+	"Aug., 1999"	"1999/08"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33
+	"Aug., 1999"	"1999/08"	"Intracerebral haemorrhage, unspecified"	"I61.9"	74
+	"Aug., 1999"	"1999/08"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	31
+	"Aug., 1999"	"1999/08"	"Cerebral infarction, unspecified"	"I63.9"	42
+	"Aug., 1999"	"1999/08"	"Stroke, not specified as haemorrhage or infarction"	"I64"	309
+	"Aug., 1999"	"1999/08"	"Cerebrovascular disease, unspecified"	"I67.9"	11
+	"Aug., 1999"	"1999/08"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	21
+	"Aug., 1999"	"1999/08"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	35
+	"Aug., 1999"	"1999/08"	"Generalized and unspecified atherosclerosis"	"I70.9"	39
+	"Aug., 1999"	"1999/08"	"Dissection of aorta [any part]"	"I71.0"	17
+	"Aug., 1999"	"1999/08"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	38
+	"Aug., 1999"	"1999/08"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	14
+	"Aug., 1999"	"1999/08"	"Peripheral vascular disease, unspecified"	"I73.9"	22
+	"Aug., 1999"	"1999/08"	"Bacterial pneumonia, unspecified"	"J15.9"	11
+	"Aug., 1999"	"1999/08"	"Bronchopneumonia, unspecified"	"J18.0"	16
+	"Aug., 1999"	"1999/08"	"Lobar pneumonia, unspecified"	"J18.1"	40
+	"Aug., 1999"	"1999/08"	"Pneumonia, unspecified"	"J18.9"	230
+	"Aug., 1999"	"1999/08"	"Emphysema, unspecified"	"J43.9"	67
+	"Aug., 1999"	"1999/08"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	21
+	"Aug., 1999"	"1999/08"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	339
+	"Aug., 1999"	"1999/08"	"Asthma, unspecified"	"J45.9"	21
+	"Aug., 1999"	"1999/08"	"Pneumonitis due to food and vomit"	"J69.0"	50
+	"Aug., 1999"	"1999/08"	"Adult respiratory distress syndrome"	"J80"	11
+	"Aug., 1999"	"1999/08"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	28
+	"Aug., 1999"	"1999/08"	"Acute vascular disorders of intestine"	"K55.0"	15
+	"Aug., 1999"	"1999/08"	"Vascular disorder of intestine, unspecified"	"K55.9"	28
+	"Aug., 1999"	"1999/08"	"Other and unspecified intestinal obstruction"	"K56.6"	18
+	"Aug., 1999"	"1999/08"	"Alcoholic cirrhosis of liver"	"K70.3"	33
+	"Aug., 1999"	"1999/08"	"Hepatic failure, unspecified"	"K72.9"	17
+	"Aug., 1999"	"1999/08"	"Other and unspecified cirrhosis of liver"	"K74.6"	66
+	"Aug., 1999"	"1999/08"	"Acute pancreatitis"	"K85"	20
+	"Aug., 1999"	"1999/08"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	31
+	"Aug., 1999"	"1999/08"	"Decubitus ulcer"	"L89"	11
+	"Aug., 1999"	"1999/08"	"Acute renal failure, unspecified"	"N17.9"	17
+	"Aug., 1999"	"1999/08"	"End-stage renal disease"	"N18.0"	48
+	"Aug., 1999"	"1999/08"	"Chronic renal failure, unspecified"	"N18.9"	34
+	"Aug., 1999"	"1999/08"	"Unspecified renal failure"	"N19"	57
+	"Aug., 1999"	"1999/08"	"Urinary tract infection, site not specified"	"N39.0"	60
+	"Aug., 1999"	"1999/08"	"Extreme immaturity"	"P07.2"	11
+	"Aug., 1999"	"1999/08"	"Neonatal cardiac dysrhythmia"	"P29.1"	16
+	"Aug., 1999"	"1999/08"	"Other ill-defined and unspecified causes of mortality"	"R99"	150
+	"Aug., 1999"	"1999/08"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	16
+	"Aug., 1999"	"1999/08"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	14
+	"Aug., 1999"	"1999/08"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	15
+	"Aug., 1999"	"1999/08"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	40
+	"Aug., 1999"	"1999/08"	"Fall on and from stairs and steps"	"W10"	11
+	"Aug., 1999"	"1999/08"	"Unspecified fall"	"W19"	46
+	"Aug., 1999"	"1999/08"	"Unspecified drowning and submersion"	"W74"	10
+	"Aug., 1999"	"1999/08"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	48
+	"Aug., 1999"	"1999/08"	"Exposure to unspecified factor"	"X59"	26
+	"Aug., 1999"	"1999/08"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	28
+	"Aug., 1999"	"1999/08"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	30
+	"Aug., 1999"	"1999/08"	"Intentional self-harm by jumping from a high place"	"X80"	20
+	"Aug., 1999"	"1999/08"	"Assault by other and unspecified firearm discharge"	"X95"	50
+	"Aug., 1999"	"1999/08"	"Assault by sharp object"	"X99"	13
+	"Sep., 1999"	"1999/09"	"Septicaemia, unspecified"	"A41.9"	144
+	"Sep., 1999"	"1999/09"	"Acute hepatitis C"	"B17.1"	20
+	"Sep., 1999"	"1999/09"	"HIV disease resulting in other bacterial infections"	"B20.1"	11
+	"Sep., 1999"	"1999/09"	"HIV disease resulting in multiple infections"	"B20.7"	13
+	"Sep., 1999"	"1999/09"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	10
+	"Sep., 1999"	"1999/09"	"HIV disease resulting in multiple diseases classified elsewhere"	"B22.7"	11
+	"Sep., 1999"	"1999/09"	"HIV disease resulting in other specified conditions"	"B23.8"	61
+	"Sep., 1999"	"1999/09"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	29
+	"Sep., 1999"	"1999/09"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	70
+	"Sep., 1999"	"1999/09"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	88
+	"Sep., 1999"	"1999/09"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	280
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of rectosigmoid junction"	"C19"	15
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of rectum"	"C20"	49
+	"Sep., 1999"	"1999/09"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	25
+	"Sep., 1999"	"1999/09"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	21
+	"Sep., 1999"	"1999/09"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	22
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of gallbladder"	"C23"	12
+	"Sep., 1999"	"1999/09"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	173
+	"Sep., 1999"	"1999/09"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	21
+	"Sep., 1999"	"1999/09"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	780
+	"Sep., 1999"	"1999/09"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	30
+	"Sep., 1999"	"1999/09"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	12
+	"Sep., 1999"	"1999/09"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	24
+	"Sep., 1999"	"1999/09"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	293
+	"Sep., 1999"	"1999/09"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	29
+	"Sep., 1999"	"1999/09"	"Endometrium - Malignant neoplasms"	"C54.1"	23
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of uterus, part unspecified"	"C55"	26
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of ovary"	"C56"	85
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of prostate"	"C61"	168
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	54
+	"Sep., 1999"	"1999/09"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	64
+	"Sep., 1999"	"1999/09"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	66
+	"Sep., 1999"	"1999/09"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	23
+	"Sep., 1999"	"1999/09"	"Malignant neoplasm without specification of site"	"C80"	154
+	"Sep., 1999"	"1999/09"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	118
+	"Sep., 1999"	"1999/09"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	50
+	"Sep., 1999"	"1999/09"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	28
+	"Sep., 1999"	"1999/09"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	37
+	"Sep., 1999"	"1999/09"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	15
+	"Sep., 1999"	"1999/09"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	27
+	"Sep., 1999"	"1999/09"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	14
+	"Sep., 1999"	"1999/09"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	15
+	"Sep., 1999"	"1999/09"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	37
+	"Sep., 1999"	"1999/09"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	24
+	"Sep., 1999"	"1999/09"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	12
+	"Sep., 1999"	"1999/09"	"Unspecified diabetes mellitus, without complications"	"E14.9"	182
+	"Sep., 1999"	"1999/09"	"Unspecified protein-energy malnutrition"	"E46"	15
+	"Sep., 1999"	"1999/09"	"Pure hypercholesterolaemia"	"E78.0"	12
+	"Sep., 1999"	"1999/09"	"Volume depletion"	"E86"	20
+	"Sep., 1999"	"1999/09"	"Unspecified dementia"	"F03"	87
+	"Sep., 1999"	"1999/09"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	23
+	"Sep., 1999"	"1999/09"	"Motor neuron disease"	"G12.2"	31
+	"Sep., 1999"	"1999/09"	"Parkinson disease"	"G20"	45
+	"Sep., 1999"	"1999/09"	"Alzheimer disease, unspecified"	"G30.9"	101
+	"Sep., 1999"	"1999/09"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	17
+	"Sep., 1999"	"1999/09"	"Essential (primary) hypertension"	"I10"	59
+	"Sep., 1999"	"1999/09"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	35
+	"Sep., 1999"	"1999/09"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	83
+	"Sep., 1999"	"1999/09"	"Hypertensive renal disease with renal failure"	"I12.0"	27
+	"Sep., 1999"	"1999/09"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	10
+	"Sep., 1999"	"1999/09"	"Acute myocardial infarction, unspecified"	"I21.9"	964
+	"Sep., 1999"	"1999/09"	"Other forms of acute ischaemic heart disease"	"I24.8"	13
+	"Sep., 1999"	"1999/09"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	362
+	"Sep., 1999"	"1999/09"	"Atherosclerotic heart disease"	"I25.1"	2035
+	"Sep., 1999"	"1999/09"	"Ischaemic cardiomyopathy"	"I25.5"	54
+	"Sep., 1999"	"1999/09"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	34
+	"Sep., 1999"	"1999/09"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	33
+	"Sep., 1999"	"1999/09"	"Primary pulmonary hypertension"	"I27.0"	12
+	"Sep., 1999"	"1999/09"	"Aortic (valve) stenosis"	"I35.0"	43
+	"Sep., 1999"	"1999/09"	"Endocarditis, valve unspecified"	"I38"	17
+	"Sep., 1999"	"1999/09"	"Dilated cardiomyopathy"	"I42.0"	21
+	"Sep., 1999"	"1999/09"	"Cardiomyopathy, unspecified"	"I42.9"	65
+	"Sep., 1999"	"1999/09"	"Cardiac arrest, unspecified"	"I46.9"	82
+	"Sep., 1999"	"1999/09"	"Atrial fibrillation and flutter"	"I48"	35
+	"Sep., 1999"	"1999/09"	"Cardiac arrhythmia, unspecified"	"I49.9"	18
+	"Sep., 1999"	"1999/09"	"Congestive heart failure"	"I50.0"	190
+	"Sep., 1999"	"1999/09"	"Heart failure, unspecified"	"I50.9"	10
+	"Sep., 1999"	"1999/09"	"Cardiovascular disease, unspecified"	"I51.6"	13
+	"Sep., 1999"	"1999/09"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34
+	"Sep., 1999"	"1999/09"	"Intracerebral haemorrhage, unspecified"	"I61.9"	87
+	"Sep., 1999"	"1999/09"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	41
+	"Sep., 1999"	"1999/09"	"Cerebral infarction, unspecified"	"I63.9"	34
+	"Sep., 1999"	"1999/09"	"Stroke, not specified as haemorrhage or infarction"	"I64"	303
+	"Sep., 1999"	"1999/09"	"Cerebrovascular disease, unspecified"	"I67.9"	18
+	"Sep., 1999"	"1999/09"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	22
+	"Sep., 1999"	"1999/09"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	42
+	"Sep., 1999"	"1999/09"	"Generalized and unspecified atherosclerosis"	"I70.9"	44
+	"Sep., 1999"	"1999/09"	"Dissection of aorta [any part]"	"I71.0"	29
+	"Sep., 1999"	"1999/09"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	37
+	"Sep., 1999"	"1999/09"	"Peripheral vascular disease, unspecified"	"I73.9"	29
+	"Sep., 1999"	"1999/09"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	10
+	"Sep., 1999"	"1999/09"	"Bacterial pneumonia, unspecified"	"J15.9"	12
+	"Sep., 1999"	"1999/09"	"Bronchopneumonia, unspecified"	"J18.0"	16
+	"Sep., 1999"	"1999/09"	"Lobar pneumonia, unspecified"	"J18.1"	38
+	"Sep., 1999"	"1999/09"	"Pneumonia, unspecified"	"J18.9"	242
+	"Sep., 1999"	"1999/09"	"Emphysema, unspecified"	"J43.9"	57
+	"Sep., 1999"	"1999/09"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	10
+	"Sep., 1999"	"1999/09"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	335
+	"Sep., 1999"	"1999/09"	"Asthma, unspecified"	"J45.9"	27
+	"Sep., 1999"	"1999/09"	"Pneumonitis due to food and vomit"	"J69.0"	44
+	"Sep., 1999"	"1999/09"	"Adult respiratory distress syndrome"	"J80"	10
+	"Sep., 1999"	"1999/09"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27
+	"Sep., 1999"	"1999/09"	"Interstitial pulmonary disease, unspecified"	"J84.9"	10
+	"Sep., 1999"	"1999/09"	"Other disorders of lung"	"J98.4"	13
+	"Sep., 1999"	"1999/09"	"Acute vascular disorders of intestine"	"K55.0"	18
+	"Sep., 1999"	"1999/09"	"Vascular disorder of intestine, unspecified"	"K55.9"	18
+	"Sep., 1999"	"1999/09"	"Alcoholic cirrhosis of liver"	"K70.3"	40
+	"Sep., 1999"	"1999/09"	"Alcoholic liver disease, unspecified"	"K70.9"	10
+	"Sep., 1999"	"1999/09"	"Other and unspecified cirrhosis of liver"	"K74.6"	50
+	"Sep., 1999"	"1999/09"	"Acute pancreatitis"	"K85"	11
+	"Sep., 1999"	"1999/09"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	35
+	"Sep., 1999"	"1999/09"	"Acute renal failure, unspecified"	"N17.9"	24
+	"Sep., 1999"	"1999/09"	"End-stage renal disease"	"N18.0"	48
+	"Sep., 1999"	"1999/09"	"Chronic renal failure, unspecified"	"N18.9"	32
+	"Sep., 1999"	"1999/09"	"Unspecified renal failure"	"N19"	53
+	"Sep., 1999"	"1999/09"	"Urinary tract infection, site not specified"	"N39.0"	59
+	"Sep., 1999"	"1999/09"	"Extreme immaturity"	"P07.2"	15
+	"Sep., 1999"	"1999/09"	"Respiratory arrest"	"R09.2"	10
+	"Sep., 1999"	"1999/09"	"Other ill-defined and unspecified causes of mortality"	"R99"	128
+	"Sep., 1999"	"1999/09"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	13
+	"Sep., 1999"	"1999/09"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	19
+	"Sep., 1999"	"1999/09"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	12
+	"Sep., 1999"	"1999/09"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	10
+	"Sep., 1999"	"1999/09"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	35
+	"Sep., 1999"	"1999/09"	"Fall on and from stairs and steps"	"W10"	13
+	"Sep., 1999"	"1999/09"	"Unspecified fall"	"W19"	42
+	"Sep., 1999"	"1999/09"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	41
+	"Sep., 1999"	"1999/09"	"Exposure to unspecified factor"	"X59"	26
+	"Sep., 1999"	"1999/09"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	26
+	"Sep., 1999"	"1999/09"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	27
+	"Sep., 1999"	"1999/09"	"Intentional self-harm by jumping from a high place"	"X80"	14
+	"Sep., 1999"	"1999/09"	"Assault by other and unspecified firearm discharge"	"X95"	40
+	"Sep., 1999"	"1999/09"	"Assault by sharp object"	"X99"	16
+	"Oct., 1999"	"1999/10"	"Septicaemia due to other Gram-negative organisms"	"A41.5"	10
+	"Oct., 1999"	"1999/10"	"Septicaemia, unspecified"	"A41.9"	134
+	"Oct., 1999"	"1999/10"	"Acute hepatitis C"	"B17.1"	18
+	"Oct., 1999"	"1999/10"	"HIV disease resulting in other bacterial infections"	"B20.1"	19
+	"Oct., 1999"	"1999/10"	"HIV disease resulting in multiple infections"	"B20.7"	12
+	"Oct., 1999"	"1999/10"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	18
+	"Oct., 1999"	"1999/10"	"HIV disease resulting in other specified conditions"	"B23.8"	62
+	"Oct., 1999"	"1999/10"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	24
+	"Oct., 1999"	"1999/10"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	12
+	"Oct., 1999"	"1999/10"	"Nasopharynx, unspecified - Malignant neoplasms"	"C11.9"	10
+	"Oct., 1999"	"1999/10"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	65
+	"Oct., 1999"	"1999/10"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	74
+	"Oct., 1999"	"1999/10"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	309
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of rectosigmoid junction"	"C19"	16
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of rectum"	"C20"	48
+	"Oct., 1999"	"1999/10"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	32
+	"Oct., 1999"	"1999/10"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	11
+	"Oct., 1999"	"1999/10"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	32
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of gallbladder"	"C23"	16
+	"Oct., 1999"	"1999/10"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	188
+	"Oct., 1999"	"1999/10"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	24
+	"Oct., 1999"	"1999/10"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	872
+	"Oct., 1999"	"1999/10"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	31
+	"Oct., 1999"	"1999/10"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	13
+	"Oct., 1999"	"1999/10"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	274
+	"Oct., 1999"	"1999/10"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	42
+	"Oct., 1999"	"1999/10"	"Endometrium - Malignant neoplasms"	"C54.1"	19
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of uterus, part unspecified"	"C55"	27
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of ovary"	"C56"	78
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of prostate"	"C61"	159
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	57
+	"Oct., 1999"	"1999/10"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	74
+	"Oct., 1999"	"1999/10"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	57
+	"Oct., 1999"	"1999/10"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	20
+	"Oct., 1999"	"1999/10"	"Secondary malignant neoplasm of other specified sites - Malignant neoplasms"	"C79.8"	10
+	"Oct., 1999"	"1999/10"	"Malignant neoplasm without specification of site"	"C80"	180
+	"Oct., 1999"	"1999/10"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	11
+	"Oct., 1999"	"1999/10"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	107
+	"Oct., 1999"	"1999/10"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	54
+	"Oct., 1999"	"1999/10"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	26
+	"Oct., 1999"	"1999/10"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	48
+	"Oct., 1999"	"1999/10"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	13
+	"Oct., 1999"	"1999/10"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	19
+	"Oct., 1999"	"1999/10"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	28
+	"Oct., 1999"	"1999/10"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	21
+	"Oct., 1999"	"1999/10"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	18
+	"Oct., 1999"	"1999/10"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	23
+	"Oct., 1999"	"1999/10"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	38
+	"Oct., 1999"	"1999/10"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	16
+	"Oct., 1999"	"1999/10"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	36
+	"Oct., 1999"	"1999/10"	"Unspecified diabetes mellitus, without complications"	"E14.9"	198
+	"Oct., 1999"	"1999/10"	"Hyperlipidaemia, unspecified"	"E78.5"	14
+	"Oct., 1999"	"1999/10"	"Volume depletion"	"E86"	23
+	"Oct., 1999"	"1999/10"	"Unspecified dementia"	"F03"	98
+	"Oct., 1999"	"1999/10"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	20
+	"Oct., 1999"	"1999/10"	"Motor neuron disease"	"G12.2"	35
+	"Oct., 1999"	"1999/10"	"Parkinson disease"	"G20"	51
+	"Oct., 1999"	"1999/10"	"Alzheimer disease, unspecified"	"G30.9"	117
+	"Oct., 1999"	"1999/10"	"Multiple sclerosis"	"G35"	11
+	"Oct., 1999"	"1999/10"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	19
+	"Oct., 1999"	"1999/10"	"Essential (primary) hypertension"	"I10"	66
+	"Oct., 1999"	"1999/10"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	47
+	"Oct., 1999"	"1999/10"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	115
+	"Oct., 1999"	"1999/10"	"Hypertensive renal disease with renal failure"	"I12.0"	54
+	"Oct., 1999"	"1999/10"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	13
+	"Oct., 1999"	"1999/10"	"Acute myocardial infarction, unspecified"	"I21.9"	1006
+	"Oct., 1999"	"1999/10"	"Other forms of acute ischaemic heart disease"	"I24.8"	18
+	"Oct., 1999"	"1999/10"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	390
+	"Oct., 1999"	"1999/10"	"Atherosclerotic heart disease"	"I25.1"	2252
+	"Oct., 1999"	"1999/10"	"Ischaemic cardiomyopathy"	"I25.5"	46
+	"Oct., 1999"	"1999/10"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	49
+	"Oct., 1999"	"1999/10"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	37
+	"Oct., 1999"	"1999/10"	"Primary pulmonary hypertension"	"I27.0"	16
+	"Oct., 1999"	"1999/10"	"Aortic (valve) stenosis"	"I35.0"	40
+	"Oct., 1999"	"1999/10"	"Endocarditis, valve unspecified"	"I38"	20
+	"Oct., 1999"	"1999/10"	"Dilated cardiomyopathy"	"I42.0"	25
+	"Oct., 1999"	"1999/10"	"Cardiomyopathy, unspecified"	"I42.9"	85
+	"Oct., 1999"	"1999/10"	"Cardiac arrest, unspecified"	"I46.9"	98
+	"Oct., 1999"	"1999/10"	"Atrial fibrillation and flutter"	"I48"	47
+	"Oct., 1999"	"1999/10"	"Cardiac arrhythmia, unspecified"	"I49.9"	27
+	"Oct., 1999"	"1999/10"	"Congestive heart failure"	"I50.0"	221
+	"Oct., 1999"	"1999/10"	"Heart failure, unspecified"	"I50.9"	14
+	"Oct., 1999"	"1999/10"	"Cardiovascular disease, unspecified"	"I51.6"	14
+	"Oct., 1999"	"1999/10"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34
+	"Oct., 1999"	"1999/10"	"Intracerebral haemorrhage, unspecified"	"I61.9"	66
+	"Oct., 1999"	"1999/10"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	25
+	"Oct., 1999"	"1999/10"	"Cerebral infarction due to thrombosis of cerebral arteries"	"I63.3"	12
+	"Oct., 1999"	"1999/10"	"Cerebral infarction, unspecified"	"I63.9"	31
+	"Oct., 1999"	"1999/10"	"Stroke, not specified as haemorrhage or infarction"	"I64"	324
+	"Oct., 1999"	"1999/10"	"Cerebrovascular disease, unspecified"	"I67.9"	14
+	"Oct., 1999"	"1999/10"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	25
+	"Oct., 1999"	"1999/10"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	28
+	"Oct., 1999"	"1999/10"	"Generalized and unspecified atherosclerosis"	"I70.9"	41
+	"Oct., 1999"	"1999/10"	"Dissection of aorta [any part]"	"I71.0"	16
+	"Oct., 1999"	"1999/10"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	35
+	"Oct., 1999"	"1999/10"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	12
+	"Oct., 1999"	"1999/10"	"Aortic aneurysm of unspecified site, ruptured"	"I71.8"	15
+	"Oct., 1999"	"1999/10"	"Peripheral vascular disease, unspecified"	"I73.9"	35
+	"Oct., 1999"	"1999/10"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	17
+	"Oct., 1999"	"1999/10"	"Bacterial pneumonia, unspecified"	"J15.9"	24
+	"Oct., 1999"	"1999/10"	"Bronchopneumonia, unspecified"	"J18.0"	27
+	"Oct., 1999"	"1999/10"	"Lobar pneumonia, unspecified"	"J18.1"	44
+	"Oct., 1999"	"1999/10"	"Pneumonia, unspecified"	"J18.9"	293
+	"Oct., 1999"	"1999/10"	"Emphysema, unspecified"	"J43.9"	60
+	"Oct., 1999"	"1999/10"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	18
+	"Oct., 1999"	"1999/10"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	405
+	"Oct., 1999"	"1999/10"	"Asthma, unspecified"	"J45.9"	31
+	"Oct., 1999"	"1999/10"	"Pneumonitis due to food and vomit"	"J69.0"	51
+	"Oct., 1999"	"1999/10"	"Adult respiratory distress syndrome"	"J80"	14
+	"Oct., 1999"	"1999/10"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	27
+	"Oct., 1999"	"1999/10"	"Interstitial pulmonary disease, unspecified"	"J84.9"	12
+	"Oct., 1999"	"1999/10"	"Respiratory failure, unspecified"	"J96.9"	12
+	"Oct., 1999"	"1999/10"	"Other disorders of lung"	"J98.4"	15
+	"Oct., 1999"	"1999/10"	"Acute vascular disorders of intestine"	"K55.0"	22
+	"Oct., 1999"	"1999/10"	"Vascular disorder of intestine, unspecified"	"K55.9"	19
+	"Oct., 1999"	"1999/10"	"Other and unspecified intestinal obstruction"	"K56.6"	11
+	"Oct., 1999"	"1999/10"	"Alcoholic cirrhosis of liver"	"K70.3"	46
+	"Oct., 1999"	"1999/10"	"Alcoholic liver disease, unspecified"	"K70.9"	11
+	"Oct., 1999"	"1999/10"	"Hepatic failure, unspecified"	"K72.9"	16
+	"Oct., 1999"	"1999/10"	"Other and unspecified cirrhosis of liver"	"K74.6"	74
+	"Oct., 1999"	"1999/10"	"Acute pancreatitis"	"K85"	11
+	"Oct., 1999"	"1999/10"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	35
+	"Oct., 1999"	"1999/10"	"Acute renal failure, unspecified"	"N17.9"	22
+	"Oct., 1999"	"1999/10"	"End-stage renal disease"	"N18.0"	49
+	"Oct., 1999"	"1999/10"	"Chronic renal failure, unspecified"	"N18.9"	36
+	"Oct., 1999"	"1999/10"	"Unspecified renal failure"	"N19"	70
+	"Oct., 1999"	"1999/10"	"Urinary tract infection, site not specified"	"N39.0"	58
+	"Oct., 1999"	"1999/10"	"Neonatal cardiac dysrhythmia"	"P29.1"	10
+	"Oct., 1999"	"1999/10"	"Other ill-defined and unspecified causes of mortality"	"R99"	175
+	"Oct., 1999"	"1999/10"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	10
+	"Oct., 1999"	"1999/10"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	22
+	"Oct., 1999"	"1999/10"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	11
+	"Oct., 1999"	"1999/10"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	13
+	"Oct., 1999"	"1999/10"	"Driver injured in collision with other and unspecified motor vehicles in traffic accident"	"V49.4"	10
+	"Oct., 1999"	"1999/10"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	11
+	"Oct., 1999"	"1999/10"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	17
+	"Oct., 1999"	"1999/10"	"Unspecified fall"	"W19"	42
+	"Oct., 1999"	"1999/10"	"Inhalation and ingestion of other objects causing obstruction of respiratory tract"	"W80"	11
+	"Oct., 1999"	"1999/10"	"Exposure to uncontrolled fire in building or structure"	"X00"	14
+	"Oct., 1999"	"1999/10"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	37
+	"Oct., 1999"	"1999/10"	"Exposure to unspecified factor"	"X59"	37
+	"Oct., 1999"	"1999/10"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	26
+	"Oct., 1999"	"1999/10"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	13
+	"Oct., 1999"	"1999/10"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	31
+	"Oct., 1999"	"1999/10"	"Assault by other and unspecified firearm discharge"	"X95"	57
+	"Nov., 1999"	"1999/11"	"Septicaemia due to other Gram-negative organisms"	"A41.5"	11
+	"Nov., 1999"	"1999/11"	"Septicaemia, unspecified"	"A41.9"	156
+	"Nov., 1999"	"1999/11"	"Acute hepatitis C"	"B17.1"	20
+	"Nov., 1999"	"1999/11"	"HIV disease resulting in other bacterial infections"	"B20.1"	20
+	"Nov., 1999"	"1999/11"	"HIV disease resulting in multiple infections"	"B20.7"	19
+	"Nov., 1999"	"1999/11"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	10
+	"Nov., 1999"	"1999/11"	"HIV disease resulting in other specified conditions"	"B23.8"	64
+	"Nov., 1999"	"1999/11"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	30
+	"Nov., 1999"	"1999/11"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	14
+	"Nov., 1999"	"1999/11"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	61
+	"Nov., 1999"	"1999/11"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	77
+	"Nov., 1999"	"1999/11"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	283
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of rectosigmoid junction"	"C19"	13
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of rectum"	"C20"	34
+	"Nov., 1999"	"1999/11"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	30
+	"Nov., 1999"	"1999/11"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	12
+	"Nov., 1999"	"1999/11"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	21
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of gallbladder"	"C23"	19
+	"Nov., 1999"	"1999/11"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	179
+	"Nov., 1999"	"1999/11"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	22
+	"Nov., 1999"	"1999/11"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	731
+	"Nov., 1999"	"1999/11"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	38
+	"Nov., 1999"	"1999/11"	"Mesothelioma, unspecified - Malignant neoplasms"	"C45.9"	10
+	"Nov., 1999"	"1999/11"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	17
+	"Nov., 1999"	"1999/11"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	260
+	"Nov., 1999"	"1999/11"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	20
+	"Nov., 1999"	"1999/11"	"Endometrium - Malignant neoplasms"	"C54.1"	25
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of uterus, part unspecified"	"C55"	21
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of ovary"	"C56"	80
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of prostate"	"C61"	194
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	52
+	"Nov., 1999"	"1999/11"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	71
+	"Nov., 1999"	"1999/11"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	56
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm of thyroid gland"	"C73"	14
+	"Nov., 1999"	"1999/11"	"Head, face and neck - Malignant neoplasms"	"C76.0"	17
+	"Nov., 1999"	"1999/11"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	23
+	"Nov., 1999"	"1999/11"	"Malignant neoplasm without specification of site"	"C80"	137
+	"Nov., 1999"	"1999/11"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	96
+	"Nov., 1999"	"1999/11"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	63
+	"Nov., 1999"	"1999/11"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	14
+	"Nov., 1999"	"1999/11"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	48
+	"Nov., 1999"	"1999/11"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	10
+	"Nov., 1999"	"1999/11"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	11
+	"Nov., 1999"	"1999/11"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	12
+	"Nov., 1999"	"1999/11"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	19
+	"Nov., 1999"	"1999/11"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	26
+	"Nov., 1999"	"1999/11"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	25
+	"Nov., 1999"	"1999/11"	"Chronic myeloproliferative disease - Uncertain neoplasms"	"D47.1"	12
+	"Nov., 1999"	"1999/11"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	31
+	"Nov., 1999"	"1999/11"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	38
+	"Nov., 1999"	"1999/11"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	14
+	"Nov., 1999"	"1999/11"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	24
+	"Nov., 1999"	"1999/11"	"Unspecified diabetes mellitus, without complications"	"E14.9"	192
+	"Nov., 1999"	"1999/11"	"Volume depletion"	"E86"	28
+	"Nov., 1999"	"1999/11"	"Unspecified dementia"	"F03"	95
+	"Nov., 1999"	"1999/11"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	18
+	"Nov., 1999"	"1999/11"	"Motor neuron disease"	"G12.2"	27
+	"Nov., 1999"	"1999/11"	"Parkinson disease"	"G20"	49
+	"Nov., 1999"	"1999/11"	"Alzheimer disease, unspecified"	"G30.9"	111
+	"Nov., 1999"	"1999/11"	"Multiple sclerosis"	"G35"	17
+	"Nov., 1999"	"1999/11"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	21
+	"Nov., 1999"	"1999/11"	"Essential (primary) hypertension"	"I10"	71
+	"Nov., 1999"	"1999/11"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	45
+	"Nov., 1999"	"1999/11"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	84
+	"Nov., 1999"	"1999/11"	"Hypertensive renal disease with renal failure"	"I12.0"	36
+	"Nov., 1999"	"1999/11"	"Hypertensive heart and renal disease with renal failure"	"I13.1"	11
+	"Nov., 1999"	"1999/11"	"Acute myocardial infarction, unspecified"	"I21.9"	1063
+	"Nov., 1999"	"1999/11"	"Other forms of acute ischaemic heart disease"	"I24.8"	16
+	"Nov., 1999"	"1999/11"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	398
+	"Nov., 1999"	"1999/11"	"Atherosclerotic heart disease"	"I25.1"	2195
+	"Nov., 1999"	"1999/11"	"Ischaemic cardiomyopathy"	"I25.5"	50
+	"Nov., 1999"	"1999/11"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	54
+	"Nov., 1999"	"1999/11"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	37
+	"Nov., 1999"	"1999/11"	"Primary pulmonary hypertension"	"I27.0"	12
+	"Nov., 1999"	"1999/11"	"Pulmonary heart disease, unspecified"	"I27.9"	11
+	"Nov., 1999"	"1999/11"	"Mitral (valve) insufficiency"	"I34.0"	14
+	"Nov., 1999"	"1999/11"	"Aortic (valve) stenosis"	"I35.0"	42
+	"Nov., 1999"	"1999/11"	"Endocarditis, valve unspecified"	"I38"	27
+	"Nov., 1999"	"1999/11"	"Dilated cardiomyopathy"	"I42.0"	25
+	"Nov., 1999"	"1999/11"	"Cardiomyopathy, unspecified"	"I42.9"	74
+	"Nov., 1999"	"1999/11"	"Cardiac arrest, unspecified"	"I46.9"	87
+	"Nov., 1999"	"1999/11"	"Atrial fibrillation and flutter"	"I48"	49
+	"Nov., 1999"	"1999/11"	"Cardiac arrhythmia, unspecified"	"I49.9"	25
+	"Nov., 1999"	"1999/11"	"Congestive heart failure"	"I50.0"	244
+	"Nov., 1999"	"1999/11"	"Heart failure, unspecified"	"I50.9"	12
+	"Nov., 1999"	"1999/11"	"Cardiovascular disease, unspecified"	"I51.6"	14
+	"Nov., 1999"	"1999/11"	"Cardiomegaly"	"I51.7"	10
+	"Nov., 1999"	"1999/11"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	34
+	"Nov., 1999"	"1999/11"	"Intracerebral haemorrhage, unspecified"	"I61.9"	65
+	"Nov., 1999"	"1999/11"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	35
+	"Nov., 1999"	"1999/11"	"Cerebral infarction, unspecified"	"I63.9"	28
+	"Nov., 1999"	"1999/11"	"Stroke, not specified as haemorrhage or infarction"	"I64"	330
+	"Nov., 1999"	"1999/11"	"Cerebrovascular disease, unspecified"	"I67.9"	24
+	"Nov., 1999"	"1999/11"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	24
+	"Nov., 1999"	"1999/11"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	43
+	"Nov., 1999"	"1999/11"	"Generalized and unspecified atherosclerosis"	"I70.9"	66
+	"Nov., 1999"	"1999/11"	"Dissection of aorta [any part]"	"I71.0"	19
+	"Nov., 1999"	"1999/11"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	22
+	"Nov., 1999"	"1999/11"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	12
+	"Nov., 1999"	"1999/11"	"Peripheral vascular disease, unspecified"	"I73.9"	25
+	"Nov., 1999"	"1999/11"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	19
+	"Nov., 1999"	"1999/11"	"Bacterial pneumonia, unspecified"	"J15.9"	24
+	"Nov., 1999"	"1999/11"	"Bronchopneumonia, unspecified"	"J18.0"	33
+	"Nov., 1999"	"1999/11"	"Lobar pneumonia, unspecified"	"J18.1"	56
+	"Nov., 1999"	"1999/11"	"Pneumonia, unspecified"	"J18.9"	282
+	"Nov., 1999"	"1999/11"	"Emphysema, unspecified"	"J43.9"	60
+	"Nov., 1999"	"1999/11"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	22
+	"Nov., 1999"	"1999/11"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	397
+	"Nov., 1999"	"1999/11"	"Asthma, unspecified"	"J45.9"	20
+	"Nov., 1999"	"1999/11"	"Pneumonitis due to food and vomit"	"J69.0"	48
+	"Nov., 1999"	"1999/11"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	31
+	"Nov., 1999"	"1999/11"	"Respiratory failure, unspecified"	"J96.9"	15
+	"Nov., 1999"	"1999/11"	"Other disorders of lung"	"J98.4"	10
+	"Nov., 1999"	"1999/11"	"Acute vascular disorders of intestine"	"K55.0"	16
+	"Nov., 1999"	"1999/11"	"Other and unspecified intestinal obstruction"	"K56.6"	13
+	"Nov., 1999"	"1999/11"	"Alcoholic cirrhosis of liver"	"K70.3"	45
+	"Nov., 1999"	"1999/11"	"Hepatic failure, unspecified"	"K72.9"	20
+	"Nov., 1999"	"1999/11"	"Other and unspecified cirrhosis of liver"	"K74.6"	64
+	"Nov., 1999"	"1999/11"	"Acute pancreatitis"	"K85"	10
+	"Nov., 1999"	"1999/11"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	44
+	"Nov., 1999"	"1999/11"	"Acute renal failure, unspecified"	"N17.9"	19
+	"Nov., 1999"	"1999/11"	"End-stage renal disease"	"N18.0"	48
+	"Nov., 1999"	"1999/11"	"Chronic renal failure, unspecified"	"N18.9"	42
+	"Nov., 1999"	"1999/11"	"Unspecified renal failure"	"N19"	74
+	"Nov., 1999"	"1999/11"	"Urinary tract infection, site not specified"	"N39.0"	74
+	"Nov., 1999"	"1999/11"	"Other ill-defined and unspecified causes of mortality"	"R99"	153
+	"Nov., 1999"	"1999/11"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	17
+	"Nov., 1999"	"1999/11"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	12
+	"Nov., 1999"	"1999/11"	"Car occupant injured in collision with car, pick-up truck or van, driver injured in traffic accident"	"V43.5"	14
+	"Nov., 1999"	"1999/11"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	11
+	"Nov., 1999"	"1999/11"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	38
+	"Nov., 1999"	"1999/11"	"Fall on and from stairs and steps"	"W10"	16
+	"Nov., 1999"	"1999/11"	"Unspecified fall"	"W19"	33
+	"Nov., 1999"	"1999/11"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	43
+	"Nov., 1999"	"1999/11"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	11
+	"Nov., 1999"	"1999/11"	"Exposure to unspecified factor"	"X59"	21
+	"Nov., 1999"	"1999/11"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	32
+	"Nov., 1999"	"1999/11"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	31
+	"Nov., 1999"	"1999/11"	"Intentional self-harm by jumping from a high place"	"X80"	10
+	"Nov., 1999"	"1999/11"	"Assault by other and unspecified firearm discharge"	"X95"	38
+	"Nov., 1999"	"1999/11"	"Assault by sharp object"	"X99"	15
+	"Dec., 1999"	"1999/12"	"Septicaemia, unspecified"	"A41.9"	188
+	"Dec., 1999"	"1999/12"	"Acute hepatitis C"	"B17.1"	20
+	"Dec., 1999"	"1999/12"	"HIV disease resulting in other bacterial infections"	"B20.1"	24
+	"Dec., 1999"	"1999/12"	"HIV disease resulting in multiple infections"	"B20.7"	19
+	"Dec., 1999"	"1999/12"	"HIV disease resulting in other infectious and parasitic diseases"	"B20.8"	10
+	"Dec., 1999"	"1999/12"	"HIV disease resulting in other specified conditions"	"B23.8"	61
+	"Dec., 1999"	"1999/12"	"Unspecified human immunodeficiency virus [HIV] disease"	"B24"	24
+	"Dec., 1999"	"1999/12"	"Sequelae of other specified infectious and parasitic diseases"	"B94.8"	11
+	"Dec., 1999"	"1999/12"	"Tongue, unspecified - Malignant neoplasms"	"C02.9"	13
+	"Dec., 1999"	"1999/12"	"Oesophagus, unspecified - Malignant neoplasms"	"C15.9"	73
+	"Dec., 1999"	"1999/12"	"Stomach, unspecified - Malignant neoplasms"	"C16.9"	79
+	"Dec., 1999"	"1999/12"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	271
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of rectum"	"C20"	46
+	"Dec., 1999"	"1999/12"	"Liver cell carcinoma - Malignant neoplasms"	"C22.0"	30
+	"Dec., 1999"	"1999/12"	"Intrahepatic bile duct carcinoma - Malignant neoplasms"	"C22.1"	16
+	"Dec., 1999"	"1999/12"	"Liver, unspecified - Malignant neoplasms"	"C22.9"	37
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of gallbladder"	"C23"	13
+	"Dec., 1999"	"1999/12"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	186
+	"Dec., 1999"	"1999/12"	"Larynx, unspecified - Malignant neoplasms"	"C32.9"	21
+	"Dec., 1999"	"1999/12"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	844
+	"Dec., 1999"	"1999/12"	"Malignant melanoma of skin, unspecified - Malignant neoplasms"	"C43.9"	32
+	"Dec., 1999"	"1999/12"	"Connective and soft tissue, unspecified - Malignant neoplasms"	"C49.9"	18
+	"Dec., 1999"	"1999/12"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	269
+	"Dec., 1999"	"1999/12"	"Cervix uteri, unspecified - Malignant neoplasms"	"C53.9"	34
+	"Dec., 1999"	"1999/12"	"Endometrium - Malignant neoplasms"	"C54.1"	22
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of uterus, part unspecified"	"C55"	20
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of ovary"	"C56"	86
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of prostate"	"C61"	199
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm of kidney, except renal pelvis"	"C64"	68
+	"Dec., 1999"	"1999/12"	"Bladder, unspecified - Malignant neoplasms"	"C67.9"	66
+	"Dec., 1999"	"1999/12"	"Brain, unspecified - Malignant neoplasms"	"C71.9"	57
+	"Dec., 1999"	"1999/12"	"Secondary malignant neoplasm of liver - Malignant neoplasms"	"C78.7"	23
+	"Dec., 1999"	"1999/12"	"Malignant neoplasm without specification of site"	"C80"	136
+	"Dec., 1999"	"1999/12"	"Hodgkin disease, unspecified"	"C81.9"	13
+	"Dec., 1999"	"1999/12"	"Non-Hodgkin lymphoma large cell (diffuse)"	"C83.3"	11
+	"Dec., 1999"	"1999/12"	"Non-Hodgkin lymphoma, unspecified type"	"C85.9"	106
+	"Dec., 1999"	"1999/12"	"Multiple myeloma - Malignant neoplasms"	"C90.0"	63
+	"Dec., 1999"	"1999/12"	"Chronic lymphocytic leukaemia - Malignant neoplasms"	"C91.1"	31
+	"Dec., 1999"	"1999/12"	"Acute myeloid leukaemia - Malignant neoplasms"	"C92.0"	59
+	"Dec., 1999"	"1999/12"	"Chronic myeloid leukaemia - Malignant neoplasms"	"C92.1"	15
+	"Dec., 1999"	"1999/12"	"Acute leukaemia of unspecified cell type - Malignant neoplasms"	"C95.0"	16
+	"Dec., 1999"	"1999/12"	"Leukaemia, unspecified - Malignant neoplasms"	"C95.9"	19
+	"Dec., 1999"	"1999/12"	"Malignant neoplasms of independent (primary) multiple sites"	"C97"	27
+	"Dec., 1999"	"1999/12"	"Brain, unspecified - Uncertain neoplasms"	"D43.2"	24
+	"Dec., 1999"	"1999/12"	"Myelodysplastic syndrome, unspecified - Uncertain neoplasms"	"D46.9"	17
+	"Dec., 1999"	"1999/12"	"Chronic myeloproliferative disease - Uncertain neoplasms"	"D47.1"	11
+	"Dec., 1999"	"1999/12"	"Insulin-dependent diabetes mellitus, without complications"	"E10.9"	29
+	"Dec., 1999"	"1999/12"	"Non-insulin-dependent diabetes mellitus, without complications"	"E11.9"	42
+	"Dec., 1999"	"1999/12"	"Unspecified diabetes mellitus, with ketoacidosis"	"E14.1"	14
+	"Dec., 1999"	"1999/12"	"Unspecified diabetes mellitus, with peripheral circulatory complications"	"E14.5"	30
+	"Dec., 1999"	"1999/12"	"Unspecified diabetes mellitus, without complications"	"E14.9"	196
+	"Dec., 1999"	"1999/12"	"Unspecified protein-energy malnutrition"	"E46"	14
+	"Dec., 1999"	"1999/12"	"Hyperlipidaemia, unspecified"	"E78.5"	10
+	"Dec., 1999"	"1999/12"	"Volume depletion"	"E86"	24
+	"Dec., 1999"	"1999/12"	"Unspecified dementia"	"F03"	104
+	"Dec., 1999"	"1999/12"	"Mental and behavioural disorders due to use of alcohol, dependence syndrome"	"F10.2"	41
+	"Dec., 1999"	"1999/12"	"Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances, harmful use"	"F19.1"	10
+	"Dec., 1999"	"1999/12"	"Motor neuron disease"	"G12.2"	27
+	"Dec., 1999"	"1999/12"	"Parkinson disease"	"G20"	48
+	"Dec., 1999"	"1999/12"	"Alzheimer disease, unspecified"	"G30.9"	145
+	"Dec., 1999"	"1999/12"	"Anoxic brain damage, not elsewhere classified"	"G93.1"	16
+	"Dec., 1999"	"1999/12"	"Rheumatic heart disease, unspecified"	"I09.9"	10
+	"Dec., 1999"	"1999/12"	"Essential (primary) hypertension"	"I10"	80
+	"Dec., 1999"	"1999/12"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	52
+	"Dec., 1999"	"1999/12"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	133
+	"Dec., 1999"	"1999/12"	"Hypertensive renal disease with renal failure"	"I12.0"	53
+	"Dec., 1999"	"1999/12"	"Hypertensive heart and renal disease with both (congestive) heart failure and renal failure"	"I13.2"	14
+	"Dec., 1999"	"1999/12"	"Acute myocardial infarction, unspecified"	"I21.9"	1278
+	"Dec., 1999"	"1999/12"	"Other forms of acute ischaemic heart disease"	"I24.8"	22
+	"Dec., 1999"	"1999/12"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	514
+	"Dec., 1999"	"1999/12"	"Atherosclerotic heart disease"	"I25.1"	2487
+	"Dec., 1999"	"1999/12"	"Ischaemic cardiomyopathy"	"I25.5"	56
+	"Dec., 1999"	"1999/12"	"Other forms of chronic ischaemic heart disease"	"I25.8"	11
+	"Dec., 1999"	"1999/12"	"Chronic ischaemic heart disease, unspecified"	"I25.9"	65
+	"Dec., 1999"	"1999/12"	"Pulmonary embolism without mention of acute cor pulmonale"	"I26.9"	33
+	"Dec., 1999"	"1999/12"	"Primary pulmonary hypertension"	"I27.0"	17
+	"Dec., 1999"	"1999/12"	"Aortic (valve) stenosis"	"I35.0"	53
+	"Dec., 1999"	"1999/12"	"Endocarditis, valve unspecified"	"I38"	33
+	"Dec., 1999"	"1999/12"	"Dilated cardiomyopathy"	"I42.0"	26
+	"Dec., 1999"	"1999/12"	"Cardiomyopathy, unspecified"	"I42.9"	85
+	"Dec., 1999"	"1999/12"	"Cardiac arrest, unspecified"	"I46.9"	121
+	"Dec., 1999"	"1999/12"	"Atrial fibrillation and flutter"	"I48"	40
+	"Dec., 1999"	"1999/12"	"Cardiac arrhythmia, unspecified"	"I49.9"	27
+	"Dec., 1999"	"1999/12"	"Congestive heart failure"	"I50.0"	254
+	"Dec., 1999"	"1999/12"	"Heart failure, unspecified"	"I50.9"	19
+	"Dec., 1999"	"1999/12"	"Subarachnoid haemorrhage, unspecified"	"I60.9"	33
+	"Dec., 1999"	"1999/12"	"Intracerebral haemorrhage, unspecified"	"I61.9"	75
+	"Dec., 1999"	"1999/12"	"Intracranial haemorrhage (nontraumatic), unspecified"	"I62.9"	46
+	"Dec., 1999"	"1999/12"	"Cerebral infarction, unspecified"	"I63.9"	46
+	"Dec., 1999"	"1999/12"	"Stroke, not specified as haemorrhage or infarction"	"I64"	378
+	"Dec., 1999"	"1999/12"	"Cerebrovascular disease, unspecified"	"I67.9"	21
+	"Dec., 1999"	"1999/12"	"Sequelae of stroke, not specified as haemorrhage or infarction"	"I69.4"	19
+	"Dec., 1999"	"1999/12"	"Sequelae of other and unspecified cerebrovascular diseases"	"I69.8"	51
+	"Dec., 1999"	"1999/12"	"Generalized and unspecified atherosclerosis"	"I70.9"	57
+	"Dec., 1999"	"1999/12"	"Dissection of aorta [any part]"	"I71.0"	29
+	"Dec., 1999"	"1999/12"	"Abdominal aortic aneurysm, ruptured"	"I71.3"	36
+	"Dec., 1999"	"1999/12"	"Abdominal aortic aneurysm, without mention of rupture"	"I71.4"	13
+	"Dec., 1999"	"1999/12"	"Peripheral vascular disease, unspecified"	"I73.9"	27
+	"Dec., 1999"	"1999/12"	"Phlebitis and thrombophlebitis of other deep vessels of lower extremities"	"I80.2"	22
+	"Dec., 1999"	"1999/12"	"Bacterial pneumonia, unspecified"	"J15.9"	20
+	"Dec., 1999"	"1999/12"	"Bronchopneumonia, unspecified"	"J18.0"	47
+	"Dec., 1999"	"1999/12"	"Lobar pneumonia, unspecified"	"J18.1"	62
+	"Dec., 1999"	"1999/12"	"Pneumonia, unspecified"	"J18.9"	354
+	"Dec., 1999"	"1999/12"	"Emphysema, unspecified"	"J43.9"	65
+	"Dec., 1999"	"1999/12"	"Other specified chronic obstructive pulmonary disease"	"J44.8"	18
+	"Dec., 1999"	"1999/12"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	531
+	"Dec., 1999"	"1999/12"	"Asthma, unspecified"	"J45.9"	32
+	"Dec., 1999"	"1999/12"	"Pneumonitis due to food and vomit"	"J69.0"	56
+	"Dec., 1999"	"1999/12"	"Adult respiratory distress syndrome"	"J80"	16
+	"Dec., 1999"	"1999/12"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	38
+	"Dec., 1999"	"1999/12"	"Interstitial pulmonary disease, unspecified"	"J84.9"	15
+	"Dec., 1999"	"1999/12"	"Respiratory failure, unspecified"	"J96.9"	21
+	"Dec., 1999"	"1999/12"	"Other disorders of lung"	"J98.4"	14
+	"Dec., 1999"	"1999/12"	"Acute vascular disorders of intestine"	"K55.0"	24
+	"Dec., 1999"	"1999/12"	"Vascular disorder of intestine, unspecified"	"K55.9"	33
+	"Dec., 1999"	"1999/12"	"Other and unspecified intestinal obstruction"	"K56.6"	23
+	"Dec., 1999"	"1999/12"	"Alcoholic cirrhosis of liver"	"K70.3"	48
+	"Dec., 1999"	"1999/12"	"Alcoholic liver disease, unspecified"	"K70.9"	13
+	"Dec., 1999"	"1999/12"	"Hepatic failure, unspecified"	"K72.9"	22
+	"Dec., 1999"	"1999/12"	"Other and unspecified cirrhosis of liver"	"K74.6"	59
+	"Dec., 1999"	"1999/12"	"Gastrointestinal haemorrhage, unspecified"	"K92.2"	47
+	"Dec., 1999"	"1999/12"	"Decubitus ulcer"	"L89"	15
+	"Dec., 1999"	"1999/12"	"Acute renal failure, unspecified"	"N17.9"	35
+	"Dec., 1999"	"1999/12"	"End-stage renal disease"	"N18.0"	51
+	"Dec., 1999"	"1999/12"	"Chronic renal failure, unspecified"	"N18.9"	40
+	"Dec., 1999"	"1999/12"	"Unspecified renal failure"	"N19"	62
+	"Dec., 1999"	"1999/12"	"Urinary tract infection, site not specified"	"N39.0"	61
+	"Dec., 1999"	"1999/12"	"Extreme immaturity"	"P07.2"	11
+	"Dec., 1999"	"1999/12"	"Respiratory distress syndrome of newborn"	"P22.0"	15
+	"Dec., 1999"	"1999/12"	"Neonatal cardiac dysrhythmia"	"P29.1"	15
+	"Dec., 1999"	"1999/12"	"Other ill-defined and unspecified causes of mortality"	"R99"	175
+	"Dec., 1999"	"1999/12"	"Pedestrian injured in collision with car, pick-up truck or van, traffic accident"	"V03.1"	21
+	"Dec., 1999"	"1999/12"	"Pedestrian injured in traffic accident involving other and unspecified motor vehicles"	"V09.2"	32
+	"Dec., 1999"	"1999/12"	"Car occupant injured in collision with fixed or stationary object, driver injured in traffic accident"	"V47.5"	15
+	"Dec., 1999"	"1999/12"	"Person injured in collision between other specified motor vehicles (traffic)"	"V87.7"	13
+	"Dec., 1999"	"1999/12"	"Person injured in unspecified motor-vehicle accident, traffic"	"V89.2"	28
+	"Dec., 1999"	"1999/12"	"Unspecified fall"	"W19"	45
+	"Dec., 1999"	"1999/12"	"Exposure to uncontrolled fire in building or structure"	"X00"	18
+	"Dec., 1999"	"1999/12"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	48
+	"Dec., 1999"	"1999/12"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	21
+	"Dec., 1999"	"1999/12"	"Exposure to unspecified factor"	"X59"	34
+	"Dec., 1999"	"1999/12"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	21
+	"Dec., 1999"	"1999/12"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	11
+	"Dec., 1999"	"1999/12"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	22
+	"Dec., 1999"	"1999/12"	"Assault by other and unspecified firearm discharge"	"X95"	44
+	"Dec., 1999"	"1999/12"	"Assault by sharp object"	"X99"	10
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: NewYork_99_Cod"
+"States: New York (36)"
+"Year/Month: 1999"
+"Group By: Month; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Feb 18, 2023 3:08:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 18, 2023 3:08:22 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"4. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
