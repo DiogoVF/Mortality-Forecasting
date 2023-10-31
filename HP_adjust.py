@@ -55,7 +55,7 @@ parser2.add_argument("-Seed",
                     default = None,
                     type = int)
 parser2.add_argument("-flname", 
-                    help = "Name of the file where the results will be stored. Default = Results",
+                    help = "Name and directory of the file where the results will be stored. Default = Results",
                     default = "Results")
 parser2.add_argument("-sines", 
                     help = "If the features contain the sines",
@@ -63,10 +63,6 @@ parser2.add_argument("-sines",
 parser2.add_argument("-state", 
                     help = "If the features contain the state one hot encoding",
                     action = "store_true")
-parser2.add_argument("-teacher_ratio", 
-                    help = "likelyhood of using teacher forcing on LSTM",
-                    default = 0,
-                    type = float)
 parser2.add_argument("-Lk","--Liquid_kernel", 
                     help = "The type of liquid kernel to be used",
                     choices = ["kb","polyb"],
@@ -84,55 +80,54 @@ if args.Seed is not None:
 
 start_time = time.time()
 #Importing the appropriate data according to the model selected
-os.chdir("/cfs/home/u021420/scripts/Preped_data/")
 if args.model in SSMs:
     if  not args.sines and not args.state:
-        train_data = torch.load("train_dataloader_JSP.dl") 
-        test_data = torch.load("test_dataloader_JSP.dl")
-        best_test_data = torch.load("test_dataloader_SP.dl") 
+        train_data = torch.load("Preped_data/train_dataloader_JSP.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSP.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SP.dl") 
         extra_features = None
 
     elif args.sines and not args.state:
-        train_data = torch.load("train_dataloader_JSPSin.dl") 
-        test_data = torch.load("test_dataloader_JSPSin.dl")
-        best_test_data = torch.load("test_dataloader_SPSin.dl") 
+        train_data = torch.load("Preped_data/train_dataloader_JSPSin.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSPSin.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SPSin.dl") 
         extra_features = 2
 
     elif args.sines and args.state:
-        train_data = torch.load("train_dataloader_JSPSinState.dl") 
-        test_data = torch.load("test_dataloader_JSPSinState.dl")
-        best_test_data = torch.load("test_dataloader_SPSinState.dl") 
+        train_data = torch.load("Preped_data/train_dataloader_JSPSinState.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSPSinState.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SPSinState.dl") 
         extra_features = 7
     
     elif not args.sines and args.state:
-        train_data = torch.load("train_dataloader_JSPState.dl") 
-        test_data = torch.load("test_dataloader_JSPState.dl")
-        best_test_data = torch.load("test_dataloader_SPState.dl") 
+        train_data = torch.load("Preped_data/train_dataloader_JSPState.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSPState.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SPState.dl") 
         extra_features = 5
 
 if args.model in Others:
     if not args.sines and not args.state:
-        train_data = torch.load("train_dataloader_JS.dl") 
-        test_data = torch.load("test_dataloader_JS.dl")
-        best_test_data = torch.load("test_dataloader_JS.dl")
+        train_data = torch.load("Preped_data/train_dataloader_JS.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JS.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_JS.dl")
         extra_features = None
 
     elif args.sines and not args.state:
-        train_data = torch.load("train_dataloader_JSSin.dl") 
-        test_data = torch.load("test_dataloader_JSSin.dl")
-        best_test_data = torch.load("test_dataloader_SSin.dl")
+        train_data = torch.load("Preped_data/train_dataloader_JSSin.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSSin.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SSin.dl")
         extra_features = 2
 
     elif args.sines and args.state:
-        train_data = torch.load("train_dataloader_JSSinState.dl") 
-        test_data = torch.load("test_dataloader_JSSinState.dl")
-        best_test_data = torch.load("test_dataloader_SSinState.dl")
+        train_data = torch.load("Preped_data/train_dataloader_JSSinState.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSSinState.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SSinState.dl")
         extra_features = 7
     
     elif not args.sines and args.state:
-        train_data = torch.load("train_dataloader_JSState.dl") 
-        test_data = torch.load("test_dataloader_JSState.dl")
-        best_test_data = torch.load("test_dataloader_SState.dl")
+        train_data = torch.load("Preped_data/train_dataloader_JSState.dl") 
+        test_data = torch.load("Preped_data/test_dataloader_JSState.dl")
+        best_test_data = torch.load("Preped_data/test_dataloader_SState.dl")
         extra_features = 5
 
 import_time = time.time()
@@ -238,12 +233,9 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
 
 training_time = time.time()
 
-if args.training_best:
-    os.chdir("/cfs/home/u021420/scripts/Results/Best_models")
-else:
-    os.chdir("/cfs/home/u021420/scripts/Results/" + args.model)
+#os.chdir("/cfs/home/u021420/scripts/Results/" + args.model)
 
-np.save( args.flname, Results)
+np.save(args.flname, Results)
 
 saving_time = time.time()
 
