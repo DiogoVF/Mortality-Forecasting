@@ -9,7 +9,7 @@ from gconv_standalone import GConv
 from torch import nn
 from utils import Mortality_dataset
 import random
-from src.models.sequence.ss.s4 import S4 as S4L
+from LS4_src.models.sequence.ss.s4 import S4 as S4L
 
 class Liquid_S4(nn.Module):
   def __init__( self,
