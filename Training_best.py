@@ -42,7 +42,7 @@ Model_dict={}
 for model_key in Models:
 
     MSE6_iter = np.ones(args.N) #guarda o MSE6 de cada iteração para ver qual a iteração com o melhor MSE6
-    Results = np.ones((args.N,33,5,30,59)) #(iteration,batches,states,features,sequence_length)
+    Results = np.ones((args.N,33,5,30,59)) #(iteration,batches,states,sequence_length,features)
     Input = np.ones((args.N,33,5,30,59)) #same shape but this are the input values
     
 
@@ -59,7 +59,7 @@ for model_key in Models:
             train_data = torch.load("Preped_data/train_dataloader_JSPSin.dl") 
             test_data = torch.load("Preped_data/test_dataloader_JSPSin.dl")
             real_test_data = torch.load("Preped_data/test_dataloader_SPSin.dl")
-            
+
         if model_key=="S4":
             Model_dict["model"] = S4_Model(
                         d_model= 118,

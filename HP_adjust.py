@@ -16,12 +16,12 @@ parser2.add_argument("model",
                     choices = ["S4", "S4D", "GConv", "LSTM", "LS4","DSS"],
                     default = "GConv")
 parser2.add_argument("-var1",
-                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var1 = d_model | LSTM => var1 = hidden_size",
+                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var1 = n_Features | LSTM => var1 = hidden_size",
                     nargs = '*',
                     default = [None],
                     type=int)
 parser2.add_argument("-var2",
-                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var2 = d_state | LSTM => var2 = teacher_ratio in %",
+                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var2 = d_SSM | LSTM => var2 = teacher_ratio in %",
                     nargs = '*',
                     default = [None],
                     type=int)
@@ -230,8 +230,6 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
         Results[(var1, var2, var3, var4)] = Losses
 
 training_time = time.time()
-
-#os.chdir("/cfs/home/u021420/scripts/Results/" + args.model)
 
 np.save(args.flname, Results)
 
