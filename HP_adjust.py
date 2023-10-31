@@ -16,7 +16,7 @@ parser2.add_argument("model",
                     choices = ["S4", "S4D", "GConv", "LSTM", "LS4","DSS"],
                     default = "GConv")
 parser2.add_argument("-var1",
-                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var1 = d_model | LSTM => var1 = hidden_zie",
+                    help = "Receives a list of values that correspond to one hyperparameter of the model. S4, S4D, Gconv => var1 = d_model | LSTM => var1 = hidden_size",
                     nargs = '*',
                     default = [None],
                     type=int)

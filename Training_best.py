@@ -41,8 +41,6 @@ Model_dict={}
 
 for model_key in Models:
 
-    os.chdir("/cfs/home/u021420/scripts/Preped_data/")
-
     MSE6_iter = np.ones(args.N) #guarda o MSE6 de cada iteração para ver qual a iteração com o melhor MSE6
     Results = np.ones((args.N,33,5,30,59)) #(iteration,batches,states,features,sequence_length)
     Input = np.ones((args.N,33,5,30,59)) #same shape but this are the input values
@@ -51,19 +49,17 @@ for model_key in Models:
     for i in range(args.N):
 
         print("training: " + model_key + " N: ",i)
-        os.chdir("/cfs/home/u021420/scripts/Preped_data/")
 
         if model_key == "LSTM":
-            train_data = torch.load("train_dataloader_JSSin.dl") 
-            test_data = torch.load("test_dataloader_JSSin.dl")
-            real_test_data = torch.load("test_dataloader_SSin.dl")
+            train_data = torch.load("Preped_data/train_dataloader_JSSin.dl") 
+            test_data = torch.load("Preped_data/test_dataloader_JSSin.dl")
+            real_test_data = torch.load("Preped_data/test_dataloader_SSin.dl")
 
         else:
-            train_data = torch.load("train_dataloader_JSPSin.dl") 
-            test_data = torch.load("test_dataloader_JSPSin.dl")
-            real_test_data = torch.load("test_dataloader_SPSin.dl")
-        os.chdir("/cfs/home/u021420/scripts/Results/")
-
+            train_data = torch.load("Preped_data/train_dataloader_JSPSin.dl") 
+            test_data = torch.load("Preped_data/test_dataloader_JSPSin.dl")
+            real_test_data = torch.load("Preped_data/test_dataloader_SPSin.dl")
+            
         if model_key=="S4":
             Model_dict["model"] = S4_Model(
                         d_model= 118,
@@ -162,7 +158,6 @@ for model_key in Models:
                 s=s+1
 
 print(best_iter)
-os.chdir("/cfs/home/u021420/scripts/Results/Training_best/")
 np.save(args.svname,(Results,Input))
     
 

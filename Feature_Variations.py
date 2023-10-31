@@ -27,6 +27,7 @@ parser2.add_argument("-models",
                     default = ["S4", "S4D", "DSS","SGconv","LSTM","LS4_kb", "LS4_polyb"]
                     )
 args = parser2.parse_args()
+
 #This code tests the presence os state features and its effects on the models performance 
 Models = args.models
 Results = {}
@@ -124,7 +125,7 @@ for fea in Features:
                                     extra_features = Features[fea],
                                     teacher_ratio=0.75 if model_key=="LSTM" else 0,
                                     save_name = "Fea_var"+ model_key + "_" + fea + ".pt", 
-                                    epochs = 5000*5) #change to 5000*5
+                                    epochs = 5000*5)
 
             Losses[ : , i] = [test_log[saved_epoch], 
                                 loss_pred1[saved_epoch], 
@@ -137,8 +138,6 @@ for fea in Features:
             print(Losses[:,i])
 
         Results[fea][model_key] = Losses
-
-os.chdir("/cfs/home/u021420/scripts/Results/Feature_variation")
 np.save(args.svname,Results)
 
     
