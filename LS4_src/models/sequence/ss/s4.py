@@ -16,8 +16,8 @@ if optimized:
 else:
     contract = torch.einsum
 
-from src.models.sequence.ss.kernel import SSKernel, _conj
-from src.models.nn import LinearActivation, Activation, DropoutNd
+from LS4_src.models.sequence.ss.kernel import SSKernel, _conj
+from LS4_src.models.nn import LinearActivation, Activation, DropoutNd
 
 class LeCun(nn.Module):
     def __init__(self):

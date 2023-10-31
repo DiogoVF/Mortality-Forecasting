@@ -12,9 +12,9 @@ from omegaconf import DictConfig
 from einops import rearrange, repeat, reduce
 from opt_einsum import contract
 
-from src.models.sequence.base import SequenceModule
-from src.models.sequence.pool import DownPool, UpPool
-from src.models.sequence.block import SequenceResidualBlock
+from LS4_src.models.sequence.base import SequenceModule
+from LS4_src.models.sequence.pool import DownPool, UpPool
+from LS4_src.models.sequence.block import SequenceResidualBlock
 
 
 class SequenceUNet(SequenceModule):

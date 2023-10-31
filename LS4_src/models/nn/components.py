@@ -9,7 +9,7 @@ import torch.nn.functional as F
 from einops import rearrange
 from opt_einsum import contract
 
-from src.models.nn.exprnn.orthogonal import modrelu
+from LS4_src.models.nn.exprnn.orthogonal import modrelu
 
 
 def stochastic_depth(input: torch.tensor, p: float, mode: str, training: bool = True):

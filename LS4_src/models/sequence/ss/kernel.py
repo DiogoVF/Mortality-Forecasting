@@ -17,12 +17,12 @@ import numpy as np
 from einops import rearrange, repeat
 from opt_einsum import contract, contract_expression
 
-import src.models.hippo.hippo as hippo
-import src.models.sequence.ss.dplr as dplr
-from src.models.functional.krylov import krylov, power
-import src.utils.train
+import LS4_src.models.hippo.hippo as hippo
+import LS4_src.models.sequence.ss.dplr as dplr
+from LS4_src.models.functional.krylov import krylov, power
+import LS4_src.utils.train
 
-log = src.utils.train.get_logger(__name__)
+log = LS4_src.utils.train.get_logger(__name__)
 
 try: # Try CUDA extension
     from extensions.cauchy.cauchy import cauchy_mult
@@ -36,16 +36,16 @@ except:
 
 try:
     import pykeops
-    from src.models.functional.cauchy import cauchy_conj
-    from src.models.functional.vandermonde import log_vandermonde, log_vandermonde_transpose
+    from LS4_src.models.functional.cauchy import cauchy_conj
+    from LS4_src.models.functional.vandermonde import log_vandermonde, log_vandermonde_transpose
 
     has_pykeops = True
     log.info("Pykeops installation found.")
 except ImportError:
     has_pykeops = False
-    from src.models.functional.cauchy import cauchy_naive
-    from src.models.functional.vandermonde import log_vandermonde_naive as log_vandermonde
-    from src.models.functional.vandermonde import log_vandermonde_transpose_naive as log_vandermonde_transpose
+    from LS4_src.models.functional.cauchy import cauchy_naive
+    from LS4_src.models.functional.vandermonde import log_vandermonde_naive as log_vandermonde
+    from LS4_src.models.functional.vandermonde import log_vandermonde_transpose_naive as log_vandermonde_transpose
     if not has_cauchy_extension:
         log.error(
             "Falling back on slow Cauchy kernel. Install at least one of pykeops or the CUDA extension for memory efficiency."

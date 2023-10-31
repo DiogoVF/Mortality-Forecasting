@@ -9,10 +9,10 @@ import torch
 import torch.nn as nn
 from einops import rearrange
 
-from src.utils.config import to_list, to_dict
-from src.models.sequence.block import SequenceResidualBlock
-from src.models.sequence.base import SequenceModule
-from src.models.nn.components import Normalization, DropoutNd
+from LS4_src.utils.config import to_list, to_dict
+from LS4_src.models.sequence.block import SequenceResidualBlock
+from LS4_src.models.sequence.base import SequenceModule
+from LS4_src.models.nn.components import Normalization, DropoutNd
 
 
 class SequenceModel(SequenceModule):

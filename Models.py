@@ -8,8 +8,8 @@ from s4 import S4
 from gconv_standalone import GConv
 from torch import nn
 from utils import Mortality_dataset
-import random
 from LS4_src.models.sequence.ss.s4 import S4 as S4L
+import random
 
 class Liquid_S4(nn.Module):
   def __init__( self,

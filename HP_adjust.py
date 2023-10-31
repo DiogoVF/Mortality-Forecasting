@@ -1,11 +1,4 @@
 import argparse
-from Models import (LSTM_predictor,
-                    S4D_Model,
-                    S4_Model,
-                    Gconv_Model,
-                    Liquid_S4,
-                    DSS_Model)
-
 from utils import (Training_Testing,
                    testing,
                    Mortality_dataset)
@@ -133,7 +126,6 @@ if args.model in Others:
 import_time = time.time()
 
 n_features = next(iter(train_data))[0].shape[2]
-print(n_features)
 
 os.chdir("/cfs/home/u021420/scripts/Results/")
 num_iter = len(args.var1)*len(args.var2)*len(args.var3)*len(args.var4)*args.N
@@ -144,6 +136,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
     Losses = np.ones((8,args.N)) #shape -> ( losses, repetitions i)G
     for i in range(args.N):
         if args.model == "S4":
+            from Models import S4_Model
             model_dict["model"] = S4_Model( d_model= var1,
                                             d_input=n_features, 
                                             d_state = var2, 
@@ -153,6 +146,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
 
         
         if args.model == "DSS":
+            from Models import DSS_Model
             model_dict["model"] = DSS_Model(d_model= var1,
                                             d_input=n_features, 
                                             d_state = var2, 
@@ -161,6 +155,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
             model_dict["name"] = args.model    
         
         if args.model == "S4D":
+            from Models import S4D_Model
             model_dict["model"] = S4D_Model(d_model= var1,
                                             d_input=n_features, 
                                             d_state = var2, 
@@ -169,6 +164,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
             model_dict["name"] = args.model    
 
         if args.model == "GConv":
+            from Models import Gconv_Model
             model_dict["model"] = Gconv_Model(  d_model= var1,
                                                 d_input=n_features, 
                                                 d_state = var2, 
@@ -177,6 +173,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
             model_dict["name"] = args.model
         
         if args.model == "LS4":
+            from Models import Liquid_S4
             model_dict["model"] = Liquid_S4(    d_model=var1,
                                                 d_input=n_features,
                                                 d_output=n_features,
@@ -187,6 +184,7 @@ for var1, var2, var3, var4 in product(args.var1, args.var2, args.var3, args.var4
             model_dict["name"] = args.model
 
         if args.model == "LSTM":
+            from Models import LSTM_predictor
             model_dict["model"] = LSTM_predictor(   n_features = n_features,
                                                     hidden_size = var1,
                                                     n_layers = var3)  
