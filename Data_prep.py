@@ -22,7 +22,7 @@ parser.add_argument("-join", "--join", help = "if we want to join all the states
 parser.add_argument("-sine", "--sine", help = "introduces two sine features to the dataset to enable the model time perception", action = "store_true")
 parser.add_argument("-state", "--state", help = "Introduce a one hot encoding feature to identify the state where the data is from", action = "store_true")
 parser.add_argument("-teacher", "--teacher", help = "Makes the predictions available in the input for teacher forcing", action = "store_true")
-parser.add_argument("-arima", "--arima", help = "If the model intended to train is an Arima model", action = "store_true")
+
 #parser arguments
 args = parser.parse_args()
 

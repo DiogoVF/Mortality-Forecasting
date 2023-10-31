@@ -67,9 +67,6 @@ parser2.add_argument("-teacher_ratio",
                     help = "likelyhood of using teacher forcing on LSTM",
                     default = 0,
                     type = float)
-parser2.add_argument("-training_best", 
-                    help = "training mode of training the best models. This can only be used if a single value is provided in the var1 through 3",
-                    action = "store_true")
 parser2.add_argument("-Lk","--Liquid_kernel", 
                     help = "The type of liquid kernel to be used",
                     choices = ["kb","polyb"],

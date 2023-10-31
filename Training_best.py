@@ -161,15 +161,6 @@ for model_key in Models:
                 Input[i,:,s,:,:]= target[:,:,:]
                 s=s+1
 
-        """for state in real_test_data:
-            if i == 0:
-                Results[model_key][state] = np.ones((12,args.N))
-            
-            Results[model_key][state][:,i] = testing(model,
-                                                real_test_data[state],
-                                                LSTM_bool = model_key=="LSTM")
-            if i == args.N-1 and args.avg:
-                Results[model_key][state] =np.mean(Results[model_key][state],axis=1)"""
 print(best_iter)
 os.chdir("/cfs/home/u021420/scripts/Results/Training_best/")
 np.save(args.svname,(Results,Input))
